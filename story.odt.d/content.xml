@@ -1,0 +1,1955 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-content xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" grddl:transformation="http://docs.oasis-open.org/office/1.2/xslt/odf2rdf.xsl">
+  <office:scripts/>
+  <office:font-face-decls>
+    <style:font-face style:name="Lohit Devanagari1" svg:font-family="'Lohit Devanagari'"/>
+    <style:font-face style:name="OpenSymbol" svg:font-family="OpenSymbol"/>
+    <style:font-face style:name="Times New Roman" svg:font-family="'Times New Roman'" style:font-family-generic="roman" style:font-pitch="variable"/>
+    <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable"/>
+    <style:font-face style:name="Lohit Devanagari" svg:font-family="'Lohit Devanagari'" style:font-family-generic="system" style:font-pitch="variable"/>
+    <style:font-face style:name="WenQuanYi Zen Hei" svg:font-family="'WenQuanYi Zen Hei'" style:font-family-generic="system" style:font-pitch="variable"/>
+  </office:font-face-decls>
+  <office:automatic-styles>
+    <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="rl-tb"/>
+      <style:text-properties fo:font-size="18pt" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+    </style:style>
+    <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="rl-tb"/>
+      <style:text-properties fo:font-size="18pt" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+    </style:style>
+    <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="rl-tb"/>
+      <style:text-properties style:text-underline-style="none"/>
+    </style:style>
+    <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="rl-tb"/>
+      <style:text-properties style:text-underline-style="none" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+    </style:style>
+    <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="rl-tb"/>
+      <style:text-properties style:text-underline-style="none" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+    </style:style>
+    <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-align="end" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="rl-tb"/>
+      <style:text-properties style:text-underline-style="none" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+    </style:style>
+    <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-align="end" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="rl-tb"/>
+      <style:text-properties style:text-underline-style="none" fo:font-weight="bold" fo:background-color="#ffffff" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+    </style:style>
+    <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-align="end" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="rl-tb"/>
+      <style:text-properties style:text-underline-style="none" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+    </style:style>
+    <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-align="start" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="rl-tb"/>
+      <style:text-properties style:text-underline-style="none" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+    </style:style>
+    <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-align="end" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="rl-tb"/>
+      <style:text-properties style:text-underline-style="none" fo:font-weight="normal" fo:background-color="#ffffff" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+    </style:style>
+    <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="rl-tb"/>
+      <style:text-properties style:text-underline-style="none"/>
+    </style:style>
+    <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="rl-tb"/>
+    </style:style>
+    <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="rl-tb"/>
+      <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+    </style:style>
+    <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="rl-tb"/>
+      <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+    </style:style>
+    <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="rl-tb"/>
+      <style:text-properties style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+    </style:style>
+    <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-align="end" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="rl-tb"/>
+      <style:text-properties style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+    </style:style>
+    <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="rl-tb"/>
+      <style:text-properties style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+    </style:style>
+    <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-align="end" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="rl-tb"/>
+      <style:text-properties style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" fo:background-color="#ffffff" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+    </style:style>
+    <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-align="end" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="rl-tb"/>
+      <style:text-properties style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+    </style:style>
+    <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="rl-tb"/>
+    </style:style>
+    <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="rl-tb"/>
+      <style:text-properties fo:font-style="normal" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+    </style:style>
+    <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="rl-tb"/>
+      <style:text-properties fo:font-size="11pt" fo:font-style="normal" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" style:font-size-asian="11pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="11pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+    </style:style>
+    <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="rl-tb"/>
+      <style:text-properties fo:font-size="11pt" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" style:font-size-asian="11pt" style:font-weight-asian="bold" style:font-size-complex="11pt" style:font-weight-complex="bold"/>
+    </style:style>
+    <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="lr-tb"/>
+    </style:style>
+    <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Standard">
+      <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="rl-tb"/>
+    </style:style>
+    <style:style style:name="T1" style:family="text">
+      <style:text-properties style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+    </style:style>
+    <style:style style:name="T2" style:family="text">
+      <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+    </style:style>
+    <style:style style:name="T3" style:family="text">
+      <style:text-properties fo:font-size="11pt" fo:font-style="normal" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" style:font-size-asian="11pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="11pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+    </style:style>
+  </office:automatic-styles>
+  <office:body>
+    <office:text text:use-soft-page-breaks="true">
+      <text:sequence-decls>
+        <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+        <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+        <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+        <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+      </text:sequence-decls>
+      <text:p text:style-name="P1">دليل مجال التطوير الأنسان الإصدار الثانى</text:p>
+      <text:p text:style-name="P1"/>
+      <text:p text:style-name="P1"/>
+      <text:p text:style-name="P1"/>
+      <text:p text:style-name="P1"/>
+      <text:p text:style-name="P1"/>
+      <text:p text:style-name="P1">بقلم شلومى فيش</text:p>
+      <text:p text:style-name="P1">ترجمة و تعريب </text:p>
+      <text:p text:style-name="P1">محمد صلاح</text:p>
+      <text:p text:style-name="P1">vieq@linuxac.org</text:p>
+      <text:p text:style-name="P1"/>
+      <text:p text:style-name="P2"/>
+      <text:p text:style-name="P2"/>
+      <text:p text:style-name="P2"/>
+      <text:p text:style-name="P2"/>
+      <text:p text:style-name="P2"/>
+      <text:p text:style-name="P2"/>
+      <text:p text:style-name="P2"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P20"/>
+      <text:p text:style-name="P24">
+        <text:a xlink:type="simple" xlink:href="http://www.shlomifish.org/">http://www.shlomifish.org/</text:a>
+      </text:p>
+      <text:p text:style-name="P24"/>
+      <text:p text:style-name="P24">
+        <text:a xlink:type="simple" xlink:href="http://www.shlomifish.org/humour/human-hacking/">http://www.shlomifish.org/humour/human-hacking/</text:a>
+      </text:p>
+      <text:p text:style-name="P20"/>
+      <text:p text:style-name="P20"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P13"><text:soft-page-break/>المــــــــــــــــــــــــــــحتويـــــــــــــــــــــــات</text:p>
+      <text:p text:style-name="P14"/>
+      <text:p text:style-name="P14"/>
+      <text:p text:style-name="P14"/>
+      <text:p text:style-name="P23">
+        <text:a xlink:type="simple" xlink:href="#مقدمة الكاتب">مقدمة الكاتب</text:a>
+      </text:p>
+      <text:p text:style-name="P23">
+        <text:a xlink:type="simple" xlink:href="#مقدمة المعرب">مقدمة المعرب</text:a>
+      </text:p>
+      <text:p text:style-name="P22">
+        <text:a xlink:type="simple" xlink:href="#الأشياء التى عليك فعلها لتذهب للجامعة">الأشياء التى عليك فعلها لتذهب للجامعة</text:a>
+      </text:p>
+      <text:p text:style-name="P12">
+        <text:a xlink:type="simple" xlink:href="#هل أنتهيت من إهانتى؟ الجزء الأول">
+          <text:span text:style-name="T3">هل أنتهيت من إهانتى؟ الجزء الأول</text:span>
+        </text:a>
+      </text:p>
+      <text:p text:style-name="P12">
+        <text:a xlink:type="simple" xlink:href="#هل أنتهيت من إهانتى؟ الجزء الثانى">
+          <text:span text:style-name="T3">هل أنتهيت من إهانتى؟ الجزء الثانى</text:span>
+        </text:a>
+      </text:p>
+      <text:p text:style-name="P22">
+        <text:a xlink:type="simple" xlink:href="#أنا مجرد مهووسة">أنا مجرد مهووسة....</text:a>
+      </text:p>
+      <text:p text:style-name="P22">
+        <text:a xlink:type="simple" xlink:href="#مطورو العتاد هم">مطورو العتاد هم......</text:a>
+      </text:p>
+      <text:p text:style-name="P22">
+        <text:a xlink:type="simple" xlink:href="#بيث!">بيث!</text:a>
+      </text:p>
+      <text:p text:style-name="P22">
+        <text:a xlink:type="simple" xlink:href="#“مازلت كما هى”">“مازلت كما هى....”</text:a>
+      </text:p>
+      <text:p text:style-name="P22">
+        <text:a xlink:type="simple" xlink:href="#ام اى ام ايى بو أو ايى أكس يو ال و وحوش أخرى">ام اى ام ايى, بو أو ايى, أكس يو ال و وحوش أخرى</text:a>
+      </text:p>
+      <text:p text:style-name="P22">
+        <text:a xlink:type="simple" xlink:href="#سيكون هذا شريرا مثل بريد اتش تى ام ال الإلكترونى">"سيكون هذا شريرا مثل بريد اتش تى ام ال الإلكترونى....."</text:a>
+      </text:p>
+      <text:p text:style-name="P12">
+        <text:a xlink:type="simple" xlink:href="#تى ار ايى زى">
+          <text:span text:style-name="T3">تى ار ايى زى</text:span>
+        </text:a>
+      </text:p>
+      <text:p text:style-name="P22">
+        <text:a xlink:type="simple" xlink:href="#التغير شىء جيد">التغير شىء جيد</text:a>
+      </text:p>
+      <text:p text:style-name="P22">
+        <text:a xlink:type="simple" xlink:href="#كان هذا مثيرا جدا!">كان هذا مثيرا جدا!</text:a>
+      </text:p>
+      <text:p text:style-name="P22">
+        <text:a xlink:type="simple" xlink:href="#ريشا - ميه هو اومير؟">ريشا - ميه هو اومير؟</text:a>
+      </text:p>
+      <text:p text:style-name="P22">
+        <text:a xlink:type="simple" xlink:href="#التخلى عن دبيان">التخلى عن "دبيان"</text:a>
+      </text:p>
+      <text:p text:style-name="P22">
+        <text:a xlink:type="simple" xlink:href="#أر أم أس سيأتى للمدينة">أر أم أس سيأتى للمدينة</text:a>
+      </text:p>
+      <text:p text:style-name="P22">
+        <text:a xlink:type="simple" xlink:href="#من الذي سيأخذ نظرة ثانية على ذلك ، ما لم">"من الذي سيأخذ نظرة ثانية على ذلك ، ما لم..."</text:a>
+      </text:p>
+      <text:p text:style-name="P22">
+        <text:a xlink:type="simple" xlink:href="#الله يعمل بطرق غامضة">الله يعمل بطرق غامضة</text:a>
+      </text:p>
+      <text:p text:style-name="P22">
+        <text:a xlink:type="simple" xlink:href="#أستطيع أن اكتب بديلى الخاص ل البحث عن الزمن المفقود">أستطيع أن اكتب بديلى الخاص ل "البحث عن الزمن المفقود"</text:a>
+      </text:p>
+      <text:p text:style-name="P22">
+        <text:a xlink:type="simple" xlink:href="#لا يمكن لمعظم خريجين هندستنا الكهربائية">لا يمكن لمعظم خريجين هندستنا الكهربائية....</text:a>
+      </text:p>
+      <text:p text:style-name="P18">
+        <text:a xlink:type="simple" xlink:href="#الدولار العشرى">الدولار العشرى</text:a>
+      </text:p>
+      <text:p text:style-name="P14"/>
+      <text:p text:style-name="P14"/>
+      <text:p text:style-name="P14"/>
+      <text:p text:style-name="P14"/>
+      <text:p text:style-name="P14"/>
+      <text:p text:style-name="P14"/>
+      <text:p text:style-name="P14"/>
+      <text:p text:style-name="P14"/>
+      <text:p text:style-name="P14"/>
+      <text:p text:style-name="P14"/>
+      <text:p text:style-name="P14"/>
+      <text:p text:style-name="P14"/>
+      <text:p text:style-name="P14"/>
+      <text:p text:style-name="P14"/>
+      <text:p text:style-name="P14"/>
+      <text:p text:style-name="P14"/>
+      <text:p text:style-name="P14"/>
+      <text:p text:style-name="P14"/>
+      <text:p text:style-name="P14"/>
+      <text:p text:style-name="P14"/>
+      <text:p text:style-name="P14"/>
+      <text:p text:style-name="P14"/>
+      <text:p text:style-name="P14"/>
+      <text:p text:style-name="P14"/>
+      <text:p text:style-name="P14"/>
+      <text:p text:style-name="P14"/>
+      <text:p text:style-name="P14"/>
+      <text:p text:style-name="P14"/>
+      <text:p text:style-name="P14"/>
+      <text:p text:style-name="P14"/>
+      <text:p text:style-name="P14"/>
+      <text:p text:style-name="P14"><text:bookmark-start text:name="مقدمة الكاتب"/><text:soft-page-break/>مقدمة الكاتب :<text:bookmark-end text:name="مقدمة الكاتب"/></text:p>
+      <text:p text:style-name="P14"/>
+      <text:p text:style-name="P14"/>
+      <text:p text:style-name="P12">هى قصة عن مراهقتين من لوس أنجليس, كاليفورنيا حوالى عام 2005, أحداهما مطورة برمجيات تحت التمرين تدرس على يد مطورة برمجيات اكثر منها إحترافا.</text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P14"><text:bookmark-start text:name="مقدمة المعرب"/>مقدمة المعرب/المترجم :<text:bookmark-end text:name="مقدمة المعرب"/></text:p>
+      <text:p text:style-name="P14"/>
+      <text:p text:style-name="P12">"أعجبنى الإتجاه العام لهذة الرواية فقررت ترجمتها و تنقيحها مما لا يتناسب مع ثقافتنا و ديننا الحنيف, أرجو ان أكون على درب السابقون بعملى هذا.” <text:s/>– محمد صلاح</text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">كاتب هذة الرواية <text:s/>إسرائيلى الجنسية يهودى الديانة و مع ذلك وافقت على العمل معه بل و كان كريما و ملتزما بما يدعو إليه. هو عندى ليس بمحارب و لو ثبت لى حرابته لتوقفت عن الترجمة فورا.</text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">هذة الرواية تتكلم كما أشرت عن تجربة فتاة فى دخول عالم يعتبر فى المقام الأول عالم الرجال لضرورات الحياة و فوق ذلك ملىء بالتحديات العظام لأنك غير مدعوم فيه بالمرة إلا ممن هم على نفس الدرب الذى سلكت.</text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">كان كل ما تطمح إليه هو إنجاز شىء ما يجعل قبولها فى الكلية امر ميسور و أنتهت بما هو أعظم من ذلك.</text:p>
+      <text:p text:style-name="P12">كانت تجربتها تجربة حياة بمعنى الكلمة, قارىء الرواية سيدرك كم التحول الذى تحولته هذة الفتاة على المستوى التقنى و الشخصى.</text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">اترككم للرواية.</text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P14"/>
+      <text:p text:style-name="P21"><text:bookmark-start text:name="الأشياء التى عليك فعلها لتذهب للجامعة"/><text:soft-page-break/>الأشياء التى عليك فعلها لتذهب للجامعة<text:bookmark-end text:name="الأشياء التى عليك فعلها لتذهب للجامعة"/> </text:p>
+      <text:p text:style-name="P21"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">اسمى جينيفر, جينيفر سوزان رايموند, ﻷكون دقيقة. أنا أعيش فى لوس أنجليس, فى واحدة من تلك الأحياء اللطيفة التى تظهر فى الأفلام. أنا فى المدرسة الثانوية الأن. </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">أسمحوا لى أن أخبركم بعض الأشياء عن نفسى, أول شىء هو إنى طالبة شرف. أحب الرياضيات بشكل خاص. الرياضيات فى المدرسة سهلة و ممتعة و الصعب منها يمكن العثور عليه فى كتب الألغاز و مسابقات الرياضيات و تكون صعبة للغاية. </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">أنا جيدة أيضا فى المجالات الأخرى, و لكن الرياضيات هى شغفى الوحيد. غير أنى شقراء و وجهى لطيف (أنا لا أعتبر نفسى جميلة, و لكن يبدو ان الرجال يعتقدون ذلك) أحاول ان يكون لباسى انيق جدا. كمهووسة رياضيات, لدى حياة إجتماعية. الجميع من حولى يبدو انهم يحبونى. </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">اخير اود ان اتكلم عن تايلور, تايلور لورانس. انه افضل صديق لى. أصبحنا أصدقاء عندما كنا فى الصف الرابع و عوقبنا سويا لمدة اربع اسابيع. أصبحنا اصدقاء على الفور. </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">ربما تايلور اكثر شعبية منى. على الرغم من أنه يلبس النظارات الطبية, فهو يبدو رائع. يبدو انه يحب شىء واحد و انا لا, أجهزة الكومبيوتر. يمضى ساعات يعبث بجهازه الخاص فى المنزل. اما انا من الناحية الأخرى, فجهازى مغلق اغلب الوقت. أكتب بخط جيد, لذلك انا لست بحاجة لمعالج نصوص. اشغله فقط لأستمع لبعض الملفات الصوتية, اقوم ببعض التصفح العشوائى فى الإنترنت ( سواء للبحث العلمى, أو لقتل الوقت أو ايا كان) أو لالعب Freecell أو Tetris. اعتقد ان أجهزة الكومبيوتر غير شخصية و مملة. </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">فى يوم ما بدأ كل شىء عندما كنت أحضر فصل, مولية إهتمام للمعلم, عندما خطر لى فجأة: انه ليس لدى أى مهارات خاصة و حقا لم اشارك فى المجتمع. و لذلك لن تفضلنى اى كلية مرموقة على أى شخص اخر. هذا ازعجنى للغاية لبقية اليوم, لقد دونت ما قاله المعلم فى دفتر ملاحظتى بلا انتباه, و ظللت قلقة حيال هذة المسألة.</text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">اريد حقا ان اتخرج من مكان لطيف حيث اكون فخورة بنفسى, و العالم كله تحت تصرفى. لكن طوال حياتى ظللت معنية بنفسى فقط و أصدقائى, فى محاولة للسعادة, و فعل ما تلزمنى به المدرسة و حسب. لم اكن ضالعة فى اى شىء فى المجتمع. لم اجد انه من الضرورى الحصول على اى مهارة خاصة, إلا إذا كنت تسمى الذهاب مرتين فى الأسبوع لممارسة الرياضة مع تايلور و ركوب الدراجات .. خاصة. </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">لقد شعرت بالارتياح عندما التقيت تايلور فى ذلك اليوم, عندما انتهينا من الدراسة سويا. </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">قلت له "تايلور, انا قلقة بشأن الكلية.". </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">قال "لماذا؟". </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">"ليس لدى اى مهارات خاصة و ليست لى مشاركة فى المجتمع." </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">"جن, أنتى حلوة و ذكية و أطيب شخص أعرفه, سوف تكون كل الكليات سعيدة بضمك لها". </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">"و كذلك كل المرشحين الأخرين, و لديهم بعض المهارات الخاصة و أظهروا بعض الأشتراك فى المجتمع المحلى. كيف سأحصل على ذلك قبل نهاية هذا العام؟" </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">"حسنا تستطيعى المحاولة" </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">"أحاول ماذا؟" </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">قال "تعلم مهارة خاصة". </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">"مهارة خاصة؟ مثل ماذا؟" </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">"يمكنك دراسة السومرية!" </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"><text:s/>قلت له و انا غير سعيدة "السومرية؟ ماذا افعل بالسومرية؟"</text:p>
+      <text:p text:style-name="P12">
+        <text:soft-page-break/>
+      </text:p>
+      <text:p text:style-name="P12">"تتحدثى مع الناطقين بالسومرية, بالطبع." </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">الأن انا غاضبة. "إنهم جميعا اموات!" </text:p>
+      <text:p text:style-name="P12">
+        <text:s/>
+      </text:p>
+      <text:p text:style-name="P12">"حسنا, حسنا. ماذا عن اللاتينية أو العبرية او اليونانية؟" </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">"لدى ما يكفى من المشاكل مع اللغة الإسبانية, شكرا لك." </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">قال تايلور "أفهم ذلك.". و نابع جسنا, حسنا"."أنا اعرف - لماذا لا تساعدى الفقراء أو اى ان كان. علمى الأطفال ذوى الاحتياجات الخاصة." </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">"حسنا...", و فكرت للحظة, "تايلور انت صنعت للتو إقتراحات عشوائية." </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">فكر تايلور للحظة واحدة. </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">"ما رايك لو فعلت شىء استطيع مساعدتك به و تستطيعى الأنتساب له و سيكون ايضا تعليمى, ما رأيك ان تصبحى مطورة برمجيات حرة؟" </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">من الكلام مع تايلور, كنت اعرف مسبقا ان المطورين غير القراصنة الذين يقتحمون أجهزة الكومبيوتر, لكنه شخص ما ينجز الامور بحماس جدا. فقلت له: </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">"مطورة مصادر مفتوحة؟ تعلم جيدا انى ارهب الكومبيوتر." </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">"جينيفر انتى ترهبين الكومبيوتر الان, و لكن يمكنك ان تحبيه. أقصد ما هى الأختيارات؟ هل ستصبحى مطورة إلكترونيات مثل جونثان؟" </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">جونثان صديق لى, يحب بناء الأجهزة مع الأسلاك و البطاريات و مكونات أخرى لا أستطيع ان اتذكرها الان. هو و تايلور صديقان حميمان. </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">"حسنا, و لكن جن", "أنا اريد منك ان تتصلى بما افعله". </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">قلت "حسنا.", "سأكون مطورة مصادر مفتوحة. أو على الأقل ساحاول......هل ستعطينى دروس خاصة و ما شابه؟" </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">"بالتأكيد و لما لا." "وقال:" انتظرى لحظة!, اعتقد ان عندى فكرة أفضل. تعالى معى." و ذهبنا اسفل القاعة. </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">تبعته عبر بعض الممرات القصيرة ثم دخلت معه مختبر الحاسوب. و توجه هو لشىء ما (يشبه فتاة) لها (شعر أرجوانى!). </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">قال "مرحبا!". </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">"مرحبــــــــــــــــــــــا" سمعت صوت انثوى متحمس. "ماذا تفعل هنا؟" </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">"جن, من فضلك تعالى الى هنا. جن أحب ان اعرفك على أيف سيغل, و التى تحب ان تنادى ب 'إريسا'. إريسا, لقد أخبرتك عن جن." </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">نظرت لهذة الشخصية إريسا. شعرها مصبوغ أرجوانى, مكياج أكثر من اللازم, و التعبير على وجهها بشع. تذكر تلك الحلقة من "سابرينا - الساحرة المراهقة" حيث تحول سابرينا نفسها لمتشردة؟ هيا تبدو افضل قليلا من ذلك. </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">"مرحبا" قلت على مضض.</text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">"همم...." قالت إريسا, "انيقة قليلا لهذة المدرسة, اليس كذلك. أنا اعرف اى نوع من البنات انت. دعينى أخمن: أنت طالبة شرف, اليس كذلك؟" </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">قلت لها "نعم". </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"><text:soft-page-break/>"تمارسين الرياضة كثيرا". </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">كنت قد اصبحت قلقة, "نعم". </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">"تستمعين لهذة الفرق الموسيقية النسائية, مثل NSync, All Saints, BackStreet Boys, Britney Spears و ...." </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">"حسنا", اردت ان اقول اننى لست معجبة كثيرا ب NSync. </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">كيف لها ان تعرف ان لدى كل اسطوناتهم؟</text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">"و علاوة على ذلك, تنتعلين زوج جيد من الأحذية, لم تنتهكى اى قواعد من قبل, والديك فخورين بك, تتابعين برامج مثل 'Friends' و 'Seinfeld' و 'Sabrina'. أوه .... أنا اكره ميلسا جون هارت جدا..." </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">لم استطع التحمل أكثر من ذلك. يبدو انها تعرف كل شىء عنى, بدأت فى البكاء و غادرت الغرفة إلى الرواق. <text:s/>بالكاد لاحظت ان الجميع فى المعمل ينظر إلى. </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">خرج تايلور و جاء إلى و هدىء من روعى. </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">"هل أنا سطحية كما وصفتنى؟" سألته بعد ان توقفت عن البكاء. </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">"جن لا تأخذى إريسا على محمل الجد. هى متشردة قليلا, و يبدو ان لديها ضغينة ضد العالم و ثقافة البوب على وجه الخصوص." </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">"لماذا تريد ان تكون هى معلمتى فى تطوير البرمجيات الحرة؟" </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">"لانها فتاة, و لذلك لن يكون لديك تحيز." </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">"ربما هى فتاة, و لكن لا تبدو كأنها كائن بشرى." </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">ثقى بى, ستعرفيها بشكل أفضل. و ستعرفك بشكل أفضل." </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">الا تستطيع ان تجد لى مطورة برمجيات اخرى لتعلمنى؟"</text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">"جنيفر...إنها أفضل مطورة برمجيات حرة فى دائرة نصف قطرها 10 كيلومتر, أنها أفضل شخص يمكننى أن أفكر فيه." </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">"حسنا", قلت له "سوف اعطيها فرصة".... الأشياء التى تقوم بها للوصول للجامعة. </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">دخلنا الغرفة مرة أخرى, أقتربت انا و تايلور من إريسا. </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">"إريسا, جينفر تريد ان تصبح مطورة برمجيات حرة." </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">"هى؟" و أفتعلت ضحكة, "لماذا؟" </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">"لتذهب لكلية أفضل." قلت لها. </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">"انت تريدى الإنخراط فى نشاط إيثارى بحت من أجل قضية انانية؟ حسنا, لن أكون القاضى فى ذلك". </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">“أوووف" قلت.</text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">"على أية حال, إذا كنتى تريدى منى أن أكون معلمتك, سيكلفك الامر. برنامجى مجانى, و لكن وقتى لا يا صديقتى. 20 دولار فى الساعة. ثقى, انا لست رخيصة ابدا. انا افعل هذا لصالح تايلور فقط. </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">قلت لها "20 دولار جيدة على أية حال, أعتقد ذلك". </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">فتحت حقيبتها, و أخرجت قائمة الطلاب المدرسية, "جينفر؟", (قلت "رايموند"), دونت عنوانى. "هيه", بضع بيوت من <text:soft-page-break/>بيتى." دونت ملحوظة باسمى على ال PDA الخاص بها. </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">"الأن لديك واجب منزلى, أنتقلى للأنترنت و أقرأى 'كيف تصبح مطور برمجيات حرة' ل إريك أس. رايموند'. سأقابلك فى خلال يومين, و أعلمك كيف تثبتين 'ماندراك لينوكس'. الفتيات يحبون ماندراك, بينما انا استخدم دبيان, على الأرجح هذا هو الأفضل لك". </text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">"شكرا, قلت لها". دونت الملحوظات فى عقلى, صافحت إريسا, و غادرت المعمل.</text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P13"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P17"><text:bookmark-start text:name="هل أنتهيت من إهانتى؟ الجزء الأول"/><text:soft-page-break/>هل أنتهيت من إهانتى؟ الجزء الأول<text:bookmark-end text:name="هل أنتهيت من إهانتى؟ الجزء الأول"/></text:p>
+      <text:p text:style-name="P15"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">فى اليوم التالى, اتصلت بتايلور فى أحد فترات الراحة و انا احمل نسخة مطبوعة من هذة المقالة "كيف تصبح هاكر". كنت مغتاظة جدا, و أردت التشاور معه بخصوص ذلك. </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"تايلور", قلت له دون أن أقول مرحبا, "ماذا بحق الله يريد منى هذا الشخص إريك رايموند؟. </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">قال "ما الذى تجديه خطىء فى ذلك؟" </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"حسنا دعنا نرى: الألعاب القيادية - انت تعرف كم انا أكرهم." </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"أنتى لا تحتاج لمثل أر بى جى لتصبحى مطورة برمجيات حرة." </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"الخيال العلمى. أنا افضل الكتابات الدعابية و الواقعية." </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">أضاف "لن يجعلك ذلك أقل من أى مهووس كومبيوتر." </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">قلت و انا اراجع الوثيقة "هنا شىء أخر:", "فنون الدفاع عن النفس أو زن!". أنت تعرف ان مجرد التفكير فى إيذاء شخص أخر يثير الرعب فى نفسى و اننى اضرب مثل فتاة.".</text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">قال تايلور "تضربين مثل فتاة؟", "سأقول لكى ما -- هذة يدى مفتوحة. أضربيها باقصى ما تستطيعين بقبضتك!, دعينا نتأكد من زعمك."</text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"حقا", قلت و انا أنظر إلى يده المفتوحة؟ </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"نعم حقا. أنا مستعد" </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">ضممت يدى اليمنى, و ضربت قبضته بأقصى قوة استطيعها. صرخ تايلور "اااه", و فرك يده اليمنى بيده اليسرى. ثم قال متألما, "أنتى نسيتى اننا نذهب للنادى الرياضى مرتين فى الأسبوع." </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"أه, صحيح....التمرين بالأثقال ....مع باقى التمرينات. هل أنت بخير؟" </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"سأكون على ما يرام." و أطلق سراح يده اليسرى. "لكنى لا أعتقد انكى تضربين مثل فتاة. أبقى ذلك فى عقلك فى حال أضطررتى لقتال نسائى فى يوم ما." </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"هيه", ابتسمت قائلة, "إذن انا قوية قليلا. ماذا فى ذلك؟ ماذلت لا أريد تعلم فنون الدفاع عن النفس. "ثم ما هذة اللغة "بايثون". من يريد تسمية لغة على أسم ثعبان." </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"حسنا, بقدر ما اعرف إريسا, فى الغالب ستعلمك بيرل بدلا من بايثون." </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">أضفت قائلة " و لكن رايموند يقول...." </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"إى أس أر (هكذا نشير ل أريك أس. رايموند), هو شخص لطيف للغاية, و لكن لديه عدة أخطاء. منها كونه بايثونى من الذبن ينقضون لغة البيرل بغير عقلانية. إريسا تعلمت بيرل كأول لغة من ما يسمى "لغات البرمجة النصية", و ماذلت تفضلها على بايثون. قالت لى ذات مرة انه قال لها شخص فى يوم ما انه من الأفضل تعليم الناس بيرل فى البداية, لأنها اللغة التى ستمكنهم من التعبير عن أنفسهم فيها". </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">قلت له "حسنا, انا أتذكر باسكال من ايام دراستى لها", "لذلك أعتقد انى ساكون بخير." </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">قال لى "جن, انا متأكد من ذلك". </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P15"/>
+      <text:p text:style-name="P15"/>
+      <text:p text:style-name="P15"/>
+      <text:p text:style-name="P17"><text:bookmark-start text:name="هل أنتهيت من إهانتى؟ الجزء الثانى"/><text:soft-page-break/>هل أنتهيت من إهانتى؟ الجزء الثانى<text:bookmark-end text:name="هل أنتهيت من إهانتى؟ الجزء الثانى"/></text:p>
+      <text:p text:style-name="P15"/>
+      <text:p text:style-name="P15"/>
+      <text:p text:style-name="P3">توقفت إريسا بمنزلى يوم السبت. أجاب أخى الباب, و كان مصدوما, و خائف قليلا من مظهرها. بعد أن تشاور معى, قلت له ان كل شىء على ما يرام و سمح لها بالصعود لغرفتى. </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">جلبت إريسا الاقراص المدمجة من توزيعة اللينوكس (منسوخة جاهزة) و قالت يمكنك الاحتفاظ بها. "قبل ان نبداء اسمحى لى ببدء الوندوز و التحقق من بعض التكوينات و الأشياء الأخرى". </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">قالت "واو", "65 جيجا خالية من أصل 80؟ بالتأكيد انتى لا تستفيدى كثيرا من هذا الجهاز. حسنا, سيعطينا هذا مساحة كافية لتثبيت اللينوكس." </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">قالت "حسنا, الأن أجلسى على الكومبيوتر و ابدئى عملية التثبيت, أقرأى التعليمات و قولى لى ما رأيك. ساعلمك ماذا عليك فعله بعد ذلك." </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">قلت "حسنا" و تبادلنا الأماكن.</text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">حسنا ماعدا الجزء الخاص بإعادة التقسيم الذى أختلط على بعض الشىء, كان كل شىء مفهوم جدا. ثم أشارت إريسا انه على إعادة تشغيل الجهاز. </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">عندما عاد الجهاز للعمل, ظهرت قائمة رسومية لطيفة تسألنى أن كنت ارغب فى بدء تشغيل لينوكس أم وندوز. اخترت لينوكس بشكل طبيعى. ثم ظهر عدد كبير من الرسائل (إريسا قالت لى انها لا تفهم كل منهم), ثم ظهرت لى شاشة الولوج سألتنى عن اسم المستخدم. </text:p>
+      <text:p text:style-name="P3">
+        <text:s/>
+      </text:p>
+      <text:p text:style-name="P3">قالت "إريسا, حسنا لقد دونا مسبقا اسم المسنخدم و كلمة السر, و كلمة السر الخاصة بالمستخدم الجذر. المستخدم الجذر يمكنه ان يفعل اى شىء, لذلك يعتبر فكرة سيئة استخدامه طوال الوقت. عندما كنت مبتدئة مثلك, كنت أعمل به طوال الوقت, و لكن ليس عليك تكرار أخطائى." </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">قلت و انا اضحك "حسنا, سأكتب هنا جينراى" و "schrodinger6590" هنا, موافقة؟" </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">نعم </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">بعد ذلك, تم إقلاع ذلك الشىء المدعو كى دى اى ("كى دى أى هى سطح المكتب رقم واحد للفتيات"), عارضة واجهة إقلاع لطيفة. و بعد ذلك رأيت شاشة العمل. </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">قلت "واو!" هذا جميل.". بالفعل كان كذلك: الرموز كانت سلسة و جذابة, إطار النوافذ كان مزين بشكل جيد, كانت تدعو الناس لتجربتها. خمنت ان القائمة تماثل قائمة البداية فى وندوز, و بدأت فى تصفح القوائم و تشغيل البرامج". </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">صاحت إريسا فى وجهى "حسبك يا صديقتى, انتى لا تدفعى لتلعبى باللينوكس فى وقتى". الأن دعينى أعرض عليكى بعض الأشياء...." </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">ارتنى كيفية الوصول لمراكز التحكم. (واحدة لسطح المكتب, و واحدة للنظام كله.) كيفية تصفح و إدارة الملفات بأستخدام مدير الملفات.و شرحت لى محرر النصوص كايت و لماذا محررات النصوص فى يونكس مفيدة بشكل عام. (لينوكس ينتمى لعائلة كبيرة من أنظمة التشغيل, فى الماضى و الحاضر يطلق عليهم يوكنسز, و يتشاركوا الكثير. لكى عندما تسمع كلمة 'يونكس' لا تصاب بالهلع".) </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">انتهى بنا المطاف بالبحث فى جوجل و شبكة الأنترنت عن بعض الموارد الجيدة عن محررات اتش تى أم ال. علمت كل هذة الروابط فى متصفح الأنترنت الخاص بك, و قالت: </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"الأن, واجبك للأسبوع القادم هو تحضير صفحة شخصية لنفسك, بعد أن تقرأى كل شىء علمته لك فى متصفح الويب. (ربما جنبا إلى جنب مع القرأة). و لأنك فتاة رتيبة, فانت على الأرجح ستملىء الصفحة بالأشياء التى تحبيها, روابط لا لزوم لها, بعض المعلومات عن الفرق الغنائية. و لكن لن أحكم عليك. تأكدى فقط من وجود محتوى كثير بالصفحة." </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">أجبتها قائلة "هل انتهيت من إهانتى؟" </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"><text:soft-page-break/>قالت مبتسمة "للأن, ساراك الاسبوع المقبل". </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">قلت لها "وادعا!" و دفعت لها عن وقتها. </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">بدت انها تعرف الكثير من الأشياء, و لكن لديها طريقة غريبة لنقلها لى. </text:p>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P4"/>
+      <text:p text:style-name="P17"><text:bookmark-start text:name="أنا مجرد مهووسة"/><text:soft-page-break/>أنا مجرد مهووسة....<text:bookmark-end text:name="أنا مجرد مهووسة"/></text:p>
+      <text:p text:style-name="P15"/>
+      <text:p text:style-name="P15"/>
+      <text:p text:style-name="P3">قلت لوجنثان"أنا أكرهها, أنا كرهتها بكل تأكيد." </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">كنا نتكلم عنها و عن تايلور </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"جن, تايلور يبدو معجبا بها, لذلك فهى لا تبدو ان كلها سيئ. ربما انتى تريها بأعتبارها صورة نمطية". </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">قلت له "حسنا, لن أتوقف عن الأعجاب بالفرق الغنائية النسائية لأنها تظن انهم مجرد نساء, انا ايضا انتمى لهم, اللعنة!" </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">قال لها جونثان "عندى فكرة جيدة: لماذا لا تثبتى لها انك مؤهلة كمبرمجة؟ يبدو انها مثل تايلور, على الرغم من ان انا و انت نعلم ان تايلور ايضا يحب الفرق الغنائية النسائية مثلك تماما." </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"حسنا, ربما كنت على حق. لا يزال لدى وقت فى نهاية هذا الأسبوع, يمكننى محاولة تعلم أتش تى أم ال و الأنتهاء من صناعة صفحتى الشخصية. أعتقد انى لن أكون مشغول جدا فى الأسبوع المقبل و اننى ساتمكن من تعديلها كثيرا." </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"حسنا, ربما ستكسبى أحترامها بهذة الطريقة." </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">و قمت ذلك بالفعل. درست اتش تى ام ال (لغة ترميز النصوص التشعبية) و ال سى اس اس الخاص بها ( صفحات الطرز المتراصة). وضعت فى صفحتى الخاصة: </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"><text:tab/>بعض المعلومات عن نفسى, السيرة الذاتية </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"><text:tab/>صور لنفسى و عائلتى </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"><text:tab/>بعض النكات و الأقتباسات المولعة بها. </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"><text:tab/>روابط للكتب التى أعجبتنى </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"><text:tab/>روابط لصفحات اصدقائى على شبكة الانترنت.</text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"><text:tab/>بعض الأراء عن الأفلام التى شاهدتها </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"><text:tab/>بعض الصفحات عن الفرق الغنائية (أضفتهم لمضايقة إريسا قليلا) </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">كل هذا بأسلوب لطيف. (لعبة فى الألوان إلا مالا نهاية للحصول على أفضل الأختيارات), و كل شىء. كان فى الواقع عمل ممتع جدا, ووجدت نفسى افعل ذلك عندما كنت متعبة جدا من اداء الواجبات المنزلية. </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">فى النهاية, كان لدى الكثير لأظهره. عندما جاء يوم السبت, عرضت ذلك على إريسا.</text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">قالت إريسا "ليس سيئا", "ليست سيئة على الأطلاق. محتوى جيد, اسلوب لطيف; محتوى قابل للنقل. هل تحققتى من كل شىء بشكل صحيح؟" </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"نعم." </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"جيد. دعينا نرفعه. لدى مساحتى الخاصة على شبكة الأنترنت, و التى ادفع فيها مبالغ جيدة. سأعطيك حساب هناك, إذا وعدت بعدم إساءة استخدامه. أنتظرى لحظة! بإعادة التفكير, لا يوجد وسيلة لشخص مثلك ان يعرف كيف يسىء اسنخدامه." </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"همممبفف...." قلت أنا. </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"على اية حال, دعينى اجلس امام الكومبيوتر للحظة."</text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">بدلنا الأماكن, و فتحت هى هذة النافذة الغريبة المليئة بنصوص احادية المسافة, كتبت بعض الأوامر الغريبة, و بعد حوالى <text:soft-page-break/>عشر دقائق, قالت: "هاكى. اسم المستخدم 'جينراى' و كلمة السر الخاصة بك هى نفس كلمة سر على هذا الجهاز. الأن سأكتب برنامج من شانه رفع الموقع على الخادم, لو كتبت فقط كلمة السر. فى الوقت نفسه, خذى الموضوع كما هو. سأشرح لكى فى وقت لاحق ماذا يفعل البرنامج, و لكن لدينا الكثير من المعلومات لنغطيها قبل ذلك".</text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">كنت قد بدات فى الإعجاب بها.</text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"شىء أخر -- لدينا مجموعة مستخدمى لينوكس (أو إختصارا ال يو جى 'لوج') نتجمع فى الاربعاء الأول و الثالث من كل شهر فى الساعة 17:00 'خمسة مساء' فى الجامعة المحلية. يجب ان تأتى و تتعرفى على لينوكس بشكل أفضل من خلال الأستماع الى العروض التى يعطيها الناس هناك". </text:p>
+      <text:p text:style-name="P3">
+        <text:s/>
+      </text:p>
+      <text:p text:style-name="P3">"واو! اولئك الناس لا يوجد لديهم شىء ليفعلوه مرتين فى الشهر, غير حضور العروض التقديمية عن اللينوكس. لكن لما فكرت فى التخرج من مكان لطيف مثل هارفرد أو بيركلى قلت, "حسنا, سأتى". </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"هيه, الفتيات هناك اكثر مماثلة لكى منى". </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"ارحتينى." </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"يجب عليك يا صديقتى!" </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"اسمى جينيفر".</text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"اسمعى يا شقراء, انا لا أهتم بك كثيرا او بالثقافة التى تمثليها. انا مجرد مهووسة تسعى لجعل العالم مكانا افضل. ماذا فعلتم انتم فى الأونة الأخيرة؟" </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"هيه, على الأقل انا اهتم بنفسى لأرتدى ملابسى بشكل صحيح و ان اظهر فى افضل صورة, و ان اراعى الأخرين. انت من الناحية الأخرى, تجعلينى بائسة, لدرجتى اننى لا استطيع وصف ذلك بجعل العالم مكانا افضل." </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"حظك صعب يا شقرائى. مشاعرك ليست حقيقية, و انت لا تستطيعى مقاضاتى لجعلك بائسة. لدى الكثر من الأصدقاء الذى يبدو انى اجلب لهم الكثير من الفرح." </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">على الأقل لست بحاجة لمساعدتك فى تعليمى كيف اطور المصادر الحرة." </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"ذلك يذكرنى", قالت إريسا, "لو اردتى ان تستفيدى من ما تدفعيه لى, يجب علينا المواصلة بدل من تبادل التهم بيننا, هل نمضى قدما؟" </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">توقفت عن الإعجاب بها بعد هذة المحادثة.</text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P11"/>
+      <text:p text:style-name="P11"/>
+      <text:p text:style-name="P17"><text:bookmark-start text:name="مطورو العتاد هم"/><text:soft-page-break/>مطورو العتاد هم......<text:bookmark-end text:name="مطورو العتاد هم"/></text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">قررت حضور هذة الأجتماعات, منذ ذلك الحين. لذا فى الأربعاء المقبل, اخذت انا و تايلور الحافلة للجامعة المحلية, و ذهبنا مباشرة لغرفة الأجتماعات. مجرد ما دخلنا قال رجل يرتدى قميص عليه صورة بطريق, "تايلور" من ضيفك؟" </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">احمررت خجلا و عرفته بنفسى قائلة "جينفر ريموند", رد التحية و قال "جيف برتسكاوسكى". </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">سائلنى جيف "انت جديدة هنا؟" </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">قلت "نعم, انا صديقة تايلور و تلميذة إريسا" </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"ممتاز, إريسا مطورة برمجيات حرة من الدرجة الأولى (ايا كان أخطاؤها الأخرى). احب ان احذرك ان الشباب هنا قد يبدو مزاحهم ثقيل و سيحاولوا مصادقتك. معظهم لديه اصدقاء بالفعل. </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">هذا حسن, انا معتادة على هذا و اعرف كيف اتعامل مع مثل هذة المواقف, اظن ان رجال اللينوكس لن يختلفوا كثيرا عن غيرهم من الرجال. انا لدى شخص يهتم بى بالفعل. </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"ماذا يعمل؟" </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"هو فى الثانوية ايضا. منغمس بشكل كبير فى الألكترونيات." </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"الإلكترونيات؟ واو, هذا مبهر. مطورى العتاد هم فئة كاملة اعلى من فئة مطورى البرامج. أعنى مطورى البرامج يكتبوا البرامج, و يمكن تشغيل البرنامج فى اى مكان يوجد به جى سى سى. هكذا يعمل, و إذا لم يعمل, فأنه من المؤكد الخطىء فى البرنامج و ليس العتاد. مطورى العتاد...يتعاملوا الأن مع العالم الحقيقى, حيث توصيلة واحدة خطىء قد تحدث دمار للعالم. الأن لو نحن جيدون, فهم اعلى مننا". </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"ماهو جى سى سى و ماهى خلفياته؟." </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"حسنا" تايلور مقاطعا, "جى سى سى هو مترجم ليس سريع جدا, و لا ينتج رمز مذهل, و لكن هو أحدى عجائب الدنيا السبع فى العالم الحديث." </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"سألته "كيف ذلك؟" </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"حسنا, يمكنه العمل فى اى مكان و تجميع الكود على اى منصة عمل تقريبا و له العديد من الملحقات المفيدة, يمكنه ترجمة العديد من اللغات ايضا, و هو فوق كل ذلك مفتوح المصدر. نواة اللينوكس على سبيل المثال, يمكن تجمعيها بأستخدام جى سى سى فقط".</text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">قال جيف "افهم من ذلك انك لست مبرمجة." </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"حسنا, لقد درست باسكال لمدة سنتين فى المدرسة الثانوية. لم يمكننى التحمس بشانها قط. و كان لدى اشياء افضل لأتعلمها فى المدرسة". </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"حسنا,إذا سالتنى, لغة باسكال غير مثيرة و بالإضافة إلى ذلك, اعتقد ان البرمجة ليس شيئا يمكنك ان تدرسيه فى المدرسة. بعض الناس يصبحوا مبرمجين افضل بعد سنة اكثر من هؤلاء الذين معهم عشر سنوات من الخبرة. كل ذلك يعتمد بحد كبير على موقفك". </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"هممم....", قلت له "أعترف ان السبب الوحيد لكونى اريد ان اصبح مطورة برمجيات حرة الأن, هو اننى اريد ان يكون عندى شيئا جيدا لأظهره, لأصل لكلية جيدة. لكنى اعترف ان إنشاء موقع شخصى تحول لتجربة ممتعة." </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"فى هذة الحالة ربما تحبى تطوير البرمجيات الحرة اكثر. إذا لم يحدث هذا - اقترح ان تجدى شيئا اخر لتفعليه, شىء تحبينه. الناس الغير متحمسين لعملهم, يكاد يكونوا مطورين غير جيدين بالمرة." </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">جعلنى ذلك قلقة بعض الشىء, لذلك قلت "نعم, بطبيعة الحال". </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"><text:soft-page-break/>فى هذة اللحظة دخلت إريسا الغرفة. التفتت حولها, ثم ثبتت نظرها على فى نهاية المطاف. "جن, لقد اتيتى!". (هل يمكنك تصديق ذلك - لقد نادتنى بجن"!). قلت لها "نعم", "كنت اتحدث مع تايلور و جيف هنا." </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"مرحبا يا شباب!" قالت إريسا و هى تقترب منا. </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"جن هنا لا تعرف شيئا عن اللينوكس, لكنها فى الواقع مثابرة للغاية, حتى انها قد تصبح مطورة من النخبة, عاجلا او اجلا". </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">كان العرض التقديمى اعلى من مستوى فهمى بالفعل, و لكنى كنت اجلس بجانب تايلور الذى تكرم بشرح بعض الأمور. فى النهاية فهمت او اعتقدت انى فهمت عن ماذا كان العرض التقديمى. </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">فى فترة الراحة, لاحظت ان الرجل الأخر كان يكتب بحماسة على لوحة مفاتيح الكومبيوتر المحمول الخاص به, فاقتربت منه. رأيت نافذة سوداء كبيرة مكتوب فى شريط عنوانها "أكس شات", و الكثير من النصوص الغريبة و كأنها محادثة. </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">سالته "هل انت تتحدث مع شخص ما؟". </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">قال "فى واقع الأمر نعم, إنه يدعى اى ار سى - دردشة الأنترنت الحقيقة. إنه فعلا مفيد فى حل المشاكل العشوائية, و كن يمكن ان يصبح إدمان جدا". </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"هل يمكنك ان ترينى كيف استخدمه؟" </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">"اعتقد ذلك". </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">فى البداية تتصلى بملقم/خادم, و من ثم تنضمى "لقنوات" مختلفة, حيث ان "القنوات" هو اسم خيالى لغرفة الدردشة, حيث يمكنك الحديث عن طريق إدخال النص فى خانة إدخال النصوص. يمكنك ايضا بدء محادثة خاصة و فعل اشياء كثيرة اخرى. لقد وجدت الفكرة مثيرة للأهتمام. </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">اضاف "و يمكن للناس الذين تتحدثين معهم ان يكونوا من الجانب الأخر من العالم". "انا اوصى ب فرى نود لأغلب الأغراض. انها شبكة لطيفة حقا. اسمحى لى ان ارسل لكى العنوان على بريدك الأكترونى". </text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3">اخذت انا و تايلور و إريسا الحافلة للمنزل. فى الطريق ظل تايلور و إريسا يتحدثان عن الكومبيوتر و اخباره الجديدة, بينما انا خائفة من مقاطعة حديثهم و سؤالهم عما يتكلمون.</text:p>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P3"/>
+      <text:p text:style-name="P5"/>
+      <text:p text:style-name="P5"/>
+      <text:p text:style-name="P16"><text:bookmark-start text:name="بيث!"/><text:soft-page-break/>بيث!<text:bookmark-end text:name="بيث!"/></text:p>
+      <text:p text:style-name="P16"/>
+      <text:p text:style-name="P16"/>
+      <text:p text:style-name="P8">عندما التقينا للمرة الثانية, جاءت الى إريسا, و <text:s/>قدمت لى بعض الدروس عن بيرل (تايلور كان محقا!) و بدأت تعلمنى كيف ابمرمج. و اعطتنى صفحة مليئة بالتمارين كواجب منزلى. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">تمرين واحد فقط ينطوى على الكثير من تجهيزات النصوص و "التعابير الأعتيادية" ظهر به مشكلة و لم اتمكن من العثور عليها. فكرت فى طلب تايلور, و لكن اعتقدت انه ربما يكون الأى ار سى مفيدا. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">لذا ولجت لشبكة فرى نود, و انضممت لقناة #بيرل. و اليكم ما حدث: </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">--&gt; أنت تتحدث الآن على # بيرل </text:p>
+      <text:p text:style-name="P8"><text:s text:c="17"/>--- الموضوع لبيرل # # هو اهلا و سهلا للبيرل : : لا لصق على القناة</text:p>
+      <text:p text:style-name="P8"><text:tab/><text:tab/><text:s text:c="4"/>استخدام http://sial.org/pbot/perl لتظهر لنا الكود. </text:p>
+      <text:p text:style-name="P8"><text:tab/><text:tab/><text:s text:c="4"/>هذه قناة المساعدة فى بيرل, برجاء اسأل سؤالك.:: اخر إصدار من بيرل هو 5.8.5 </text:p>
+      <text:p text:style-name="P8"><text:tab/><text:s text:c="9"/><text:tab/>تم تثبيت الموضوع لقناة #بيرل بواسطة كوالو </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">&lt;جينراى&gt; مرحبا جميعا! </text:p>
+      <text:p text:style-name="P8">&lt;رايندولف&gt; كما كنت اقول, لم يكن لدى تجربة جادة مع البى اس ديز, لذلك لم استطيع ان أقول. </text:p>
+      <text:p text:style-name="P8">&lt;جينراى&gt; هل يمكنك مساعدتى فى تصحيح بعض الأكواد؟ انا احاول تعلم بيرل. </text:p>
+      <text:p text:style-name="P8">&lt;رايندولف&gt; بالتأيكد, فقط لا تلصقى الكود هنا. استعملى باستيبوت. </text:p>
+      <text:p text:style-name="P8">&lt;رايندولف&gt; بيرلبوت: نوبايست ( <text:s/>لا لصق ) </text:p>
+      <text:p text:style-name="P8">&lt;بيرلبوت&gt; الصق الكود الخاص بك هنا و ستكون #بيرل قادرة على مشهادتها: http://sial.org/pbot/perl </text:p>
+      <text:p text:style-name="P8">&lt;جينراى&gt; حسنا. </text:p>
+      <text:p text:style-name="P8">&lt;رايندولف&gt; ارى ان اسمك فى /هو ايز (من هو) هو "جينيفر رايموند". </text:p>
+      <text:p text:style-name="P8">&lt;رايندولف&gt; إذن انت فتاة؟ </text:p>
+      <text:p text:style-name="P8">&lt;جينراى&gt; نعم, انا كذلك.</text:p>
+      <text:p text:style-name="P8">&lt;رايندولف&gt; جينراى: لطيف, يمكننا دائما الترحيب بمزيد من الفتيات يستخدمن بيرل. </text:p>
+      <text:p text:style-name="P8">&lt;رايندولف&gt; لدينا انثى اخرى معتادة على التواجد هنا اسمها "بيث". هى من الناحية الأخرى, يبدو انها تعرف اشيائها بشكل جيد. </text:p>
+      <text:p text:style-name="P8">&lt;جينراى&gt; :-) </text:p>
+      <text:p text:style-name="P8"><text:s text:c="3"/>--&gt; بيث أنضمت لقناة #بيرل </text:p>
+      <text:p text:style-name="P8">&lt;رايندولف&gt; جينراى: تحدثنا عن الشيطان فظهر! </text:p>
+      <text:p text:style-name="P8">&lt;رايندولف&gt; بيث! </text:p>
+      <text:p text:style-name="P8">&lt;بيث&gt; رايندولف! كيف حالك؟ </text:p>
+      <text:p text:style-name="P8">&lt;رايندولف&gt; بيث: جينراى تحاول تعلم بيرل و لديها مشكلة فى الكود. جينراى: هل تكرمت بنشر ذلك الكود الأن على بايستبوت الأن؟ </text:p>
+      <text:p text:style-name="P8">&lt;جينراى&gt; نعم, حالا</text:p>
+      <text:p text:style-name="P8">&lt;بايستلينج&gt; "جينراى" على 127.0.0.1 لصقت "مشكلة كود" (16 سطر) على http://sial.org/pbot/3326 </text:p>
+      <text:p text:style-name="P8">&lt;بيث&gt; هممم... جينراى, هل انتى متأكدت انك تريدى استخدام '*' فى التعبير المعتاد "ريجكس" على الحرف الأخير و ليس السلسلة بأكملها؟ </text:p>
+      <text:p text:style-name="P8">&lt;جينراى&gt; أوه!, إنه يؤثر فى الحرف الأخير فقط؟ </text:p>
+      <text:p text:style-name="P8">&lt;رايندولف&gt; نعم, انت تحتاجى لتكتيله بأستخدام (?:mystring) أو تحديده باستخدام (mystring). </text:p>
+      <text:p text:style-name="P8">&lt;جينراى&gt; أحاول.... </text:p>
+      <text:p text:style-name="P8">&lt;جينراى&gt; أنه يعمل! </text:p>
+      <text:p text:style-name="P8">&lt;جينراى&gt; شكرا بيث و رايندولف! </text:p>
+      <text:p text:style-name="P8">&lt;بيث&gt; <text:s/>لا مشكلة, انا هنا لأخدم. </text:p>
+      <text:p text:style-name="P8">&lt;رايندولف&gt; بيث++</text:p>
+      <text:p text:style-name="P8">&lt;رايندولف&gt; جينراى: عندما يساعدك شخص يجب عليك زيادة الكاراما الخاصة به بأستخدام زائد-زائد على اسمهم. </text:p>
+      <text:p text:style-name="P8">&lt;جينراى&gt; رايندولف: اه, حسنا </text:p>
+      <text:p text:style-name="P8">&lt;جينراى&gt; بيث++ </text:p>
+      <text:p text:style-name="P8">* بيث تأخذ جينراى بالحضن </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P6"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P16"><text:bookmark-start text:name="“مازلت كما هى”"/><text:soft-page-break/>“مازلت كما هى....”<text:bookmark-end text:name="“مازلت كما هى”"/></text:p>
+      <text:p text:style-name="P19"/>
+      <text:p text:style-name="P19"/>
+      <text:p text:style-name="P8">ظلت إريسا تعلمنى, و انا ظللت اتعلم اشياء جديدة. بيرل ضخمة جدا بشكل إيجابى و لها العديد من الأمور الدقيقة. فى نهاية المطاف, قالت لى إريسا اننى اصبحت جيدة بما فيه الكفاية لبدء المساهمة فى المشاريع المفتوحة المصدر. و اوصتنى بالبحث عن وحدات سى بان المثيرة (=ارشيف شبكة بيرل الشامل), أضيف التجارب الألية, مراجعة الأكواد, و ربما أضيف خاصية او اثنين. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">هذا ما فعلت, وجدت نفسى اساهم فى مختلف الوحدات. و فى يوم ما, اقتربت منى إريسا منى عندما كنت أخرج اشياءى من الخزانة. "جين, أنا أخبرت والدتى عنك و الان هى تزعجنى بدعوتك لتناول العشاء فى منزلنا, هل تحبى ان تاتى؟" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قلت لها "بالتأكيد أحب ان أتى". </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"جيد, سوف يعطينا ذلك فرصة ان اريك جهاز الكومبيوتر الخاص بى, و سأريك بيئة العمل الحقيقة للرجال الجادين و النساء. ليس بيئة العمل البسيطة التى اوصيتك ان تبدأى بها." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قلت لها "هيه" و ابتسمت. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قررنا عقده فى اليوم التالى فى تمام الساعة 19:00 (السابعة مساء), هكذا فى اليوم التالى, ارتديت بعض من أفضل ملابسى. عندما نظرت على المظهر النهائى فى المراة, قلت لنفسى ربما سأبدو افضل من إريسا بجهد اقل من ذلك. ثم مشيت لمنزل إريسا. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">فتحت لى الباب. نظرت لها و لاحظت اننى ربما كنت على حق - انها تبدو مريعة. قالت "مرحبا جن, من فضلك ادخلى.". </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">احب ان انبهك ان عائلتى تحب منادتى ب "إيف". لا امانع فى الأسم كثيرا, و لكن لتجنب العادات السيئة, يجب عليك منادتى بإريسا. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"حسنا, لماذا قمت بتغيير اسمك فى المقام الأول؟" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"حسنا, يجب على كل شخص ان يكون له القرار فى أختيار اسمه الخاص. والدى اطلقا على اسم "أيف" لأنهم ارادوا اسم عبرى لطيف. انا من الناحية الأخرى, احاول ان اكون فريدة و متفردة, لذلك قمت بإعادة تسمية نفسى." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"انا احب اسمى كثيرا و لن اغيره ابدا." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"صديقتى, انت من يستسلم للمجتمع لست انا." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">ثم لاحظت وجود صبى صغير (يرتدى ملابس عادية تماما) يتحدر إلى اسف الدرج, قال و هو يتطلع فى وجهى "إيف, هذة هى جينفر؟". </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"قالت له إريسا "نعم" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">أقتربت منه و قلت "جينفير رايموند!, تشرفت بمقابلتك. انت اخو إريسا؟". </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قال "نعم, اسمى دانيال سيغل." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">تشرفت بمقابلتك, دانيال." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"تشرفت بمقابلتك ايضا انسة رايموند." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"مهلا, يمكنك منادتى بجينيفر."</text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قال و هو يتطلع بشىء من الحيرة "مهما يكن" و ركض إلى غرفة أخرى. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"حسنا, باعتبارى مضيفة جيدة, دعينى اريكى ما نفعله هنا. ارشدتنى إريسا قائلة "فى غرفة المعيشة لدينا العاب فيديو, مشغل دى فى دى, و مشغل فى اتش اس. عائلتى ابتاعت مجموعة كبيرة من الافلام و العاب الفيديو. لفترة طويلة كانوا يرفضوا هذة الممارسات, لأنها تضخ اموال فى الة صناعة المحتوى. و مع ذلك, ماذلت لا امانع فى استخدامها مرة واحدة <text:soft-page-break/>عندما يتم شراؤها". </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">اضافت قائلة "جهاز الكومبيوتر الشخصى هو فى غرفتى اعلى الدرج, هناك بضعة اشياء اود ان اريكى اياها." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قلت لها "اود ان ارى غرفتك و ان التقى بوالديك." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"حسنا, دعينا نذهب إلى غرفتى الأن و بعد ذلك يمكننا البحث عن وسيلة لترفيهك بينما يعد الطعام." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">و كذلك تبعتها صعودا على الدرج. غرفة إريسا تعكس شخصيتها. فى حين ان الجدران بيضاء (لحسن الحظ) كانت مليئة بالملصقات عن فرق الغناء الهيفى ميتال, بعض النشطاء, كمية كبيرة من الكتب (البعض منهم كان مغطى باللغة العبرية). كما كان هناك الكثير من الفوضى. فى ركن واحد, كان هناك مكتب صغير و تحته كومبيوتر لطيف, و شاشة مسطحة فى الأعلى, و لوحة مفاتيح. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">أخذت إريسا المقعد الذى بجوار الشاشة و اشارت الى انه ينبغى على اخذ المقعد الذى بجوارها. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"انظرى, هذا هو دبيان - توزيعة حقيقية يستخدمها الرجال و النساء (علامة مسجلة). يتم صيانتها و متابعتها عبر مجموعة من المجمعين من مختلف انحاء العالم, و يسيطر عليها منظمة واحدة بدل من تلك الشركات التى لا تهتم حقا بالمستخدمين لديهم." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"اول شىء يجب ان تلاحظيه هو اننى ادخل اولا فى وضع النص. الجدد يعشقوا الواجهة الرسومية, و لكن ذلك يسبب مشاكل كثيرة. بعد ان تدخلى فى وحدة التحكم الافتراضية, يمكنك بدء الواجهة الرسومية عن طريق استخدام "startx". </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"و هنا ايسى ام دبليو - مدير نوافذ يمكنك استخدامه بدون ان يلتهم موارد الكومبيوتر مثل يفعل كى دى اى <text:s/>او <text:s/>جنوم. بعض الناس تستخدم فلوكس بوكس او اى كان, ايس يعمل لدى بشكل جيد." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"ممتاز, اعتقد انى يمكننى تجربته. يبدو انه ليس حلو فى الأعين مثل كى دى اى." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"حلاوة فى العين = موارد و سرعة مستهلكة." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">ضحكت "هيهيهي", "هل هناك اى شىء اخر تريدى ان اراه؟"</text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"حسنا لا يمكننى التفكير فى اى شىء الأن. لماذا لا نذهب للطابق الأسفل و نلتقى بعائلتى. يجب ان يكون الغذاء معدا الأن." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">توجهت للأسفل. كان دانيال يشاهد فيلم انا احب مشاهدته, فأنضممت اليه فى المشاهدة. فى نهاية الأمر, دعت والدة إريسا الجميع لينضموا للطعام حيث اصبح جاهزا. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">تحدثت عائلة إريسا كثيرا خلال تناول الطعام, و انا اشتركت معهم كلما سنحت الفرصة. لاحظت انهم ينادوا إريسا ب "إيف" (كما شرحت فى السابق). الطعام كان لذيذا. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">بعد تناول الطعام, كان والد إريسا و أخوها الأكبر قد تطوعا لتنظيف المائدة, سألتنى والدة إريسا ان كنت ارغب فى مشاهدة البوم صور إريسا. قلت لها "احب ذلك.". </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">كبنت صغيرة, كانت إريسا لطيفة جدا. "كوننا يهود, كبرت بين الكثير من اليهود و الأطفال الإسرائليين, تعلمت العبرية بسرعة. كما تعلمت القرأة فى نهاية الأمر, حتى من دون علامات التشكيل. بعض اضدقائنا الإسرائليين و الأقرباء, كانوا مندهشين من إتقانها اللغة, و قالوا انه بالكاد طريقة نطقها تكشف محل ميلادها." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"كانت فخورة جدا بتراثها و ثقافتها اليهودية. هنا بعض الصور لها خلال بات-ميتزافاه." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">فنظرت لها بأهتمام و قلت "إذن متى اصبحت....." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"متشردة؟", قاطعتنى إريسا, "هذا حسن - انا اعلن هذة حقيقة." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قالت امها "حسنا", "فى حوالى سن الأربعة عشر. بدأت فى الأبتعاد عن صديقاتها المعتادين, تلبس بشكل غريب, تلون شعرها بألوان صاخبة. "نحن لا نعتقد بفرض سيطرتنا على كيف يدير اولادنا حياتهم, لذلك تركناها تصبح ما تريد." </text:p>
+      <text:p text:style-name="P8">
+        <text:soft-page-break/>
+      </text:p>
+      <text:p text:style-name="P8">"هل كان ذلك بسبب إهتمامها بالكومبيوتر؟" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"><text:s/>قالت "أوه لا", أنها كانت تلعب بالكومبيوتر منذ كانت طفلة صغيرة. كانت معتادة على دعوة صديقاتها للمنزل و تريهم كيفية لعب الألعاب و البرامج. كان كل شىء إجتماعى جدا. نحن لا نعرف ماذا حدث. كانت دائما تراعى الأخرين." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قلت لها "إنها مازلت كذلك....." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">إبتسمت إريسا ثم عادت لقرأة كتابها. بعد فترة قصيرة قالت "انتى تعرف اننى لست هنا بالضبط ملكة الإيثار. بقدر ما اعتقد ان التسويق شر, و ان الأعمال الكبيرة تسعى لتدمير بلادنا و العالم بأسره, ماذلت اعتقد ان السلع الملموسة و وقت الناس تحديدا هو شىء لا يجب ان يكون ان يذهب هباء." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">أجبتها قائلة "عادل بما يكفى, يمكننى ان اتفق معك, ماذا بعد؟" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"حسنا, لمعلوماتك الخاصة, عن طريق مقايضة وقتى مع الناس فقط, امتلك الأن 20 الف دولار فى البنك." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">أجبتها مندهشة "انتى تمزحين؟" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قالت والدة إريسا "انها لا تمزح." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"كيف حصلت على كل ذلك؟"</text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"حسنا, امى و ابى يمولوا طعامى و ملابسى و المدرسة, لذا فإنى لست بحاجة لأقلق بشان ذلك. كنت أعمل خلال الصيف فى محلات البرمجيات التجارية و أعطى دروسا (كما هو الحال معك), و اعمل مستقلة." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"سأعطيك مثال جيد, بعث لى هذا الرجل المسن يوما, فى بداية جنون الإنترنت, بعث لى عن طريق قائمة بريدية كنت مشتركة فيها يطلب المساعدة فى محاولة بناء موقع على شبكة الأنترنت لنفسه (مع صور لأحفاده و اشياء من هذا القبيل). قلت له انه لن يكون مناسب ان اصنع و ادير الموقع لاجله و انه يجب عليه تعلم لغة الأتش تى ام ال. اتضح انه يعيش فى الجانب الأخر من مدينة لوس أنجلوس, فقلت له انا على استعداد لتعليمك إذا كان يستطيع الدفع مقابل وقتى كله بالإضافة للتنقلات." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"وافق على الفور و بدأت أعلمه. استغرق وقتا طويلا. انتى تعلمى, الناس كبيرة السن يمكنهم الكتابة ببطىء شديد و هو لم يكن إستثنائيا. بعد ذلك, عندما تعلم الأتش تى ام ال, قلت له انى على استعداد لأستضافة موقعه على خادمى مقابل رسوم شهرية, فوافق." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"كذلك حصلت على المال الكثير من التدريس له و انا الأن احصل على نقود شهرية مستمرة منه. هو و زوجته فى الواقع كانا يحلمان بموقع لهم على شبكة الأنترنت,, حيث يملؤه بمراجعتهم للأفلام و توصياتهم و معلومات عنهم, ذكريات, اشياء من هذا القبيل." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"ذرفت بعض الدموع و مسحتها بمرفقى." قلت لها "إريسا, هذة واحدة من احلى القصص التى سمعتها فى اى وقت مضى. يجب ان تكونى الفتاة الأكثر عطفا فى العالم, و..." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">أوقفتنى إريسا "عطفا؟!", "انا قاضية هذا الرجل الفقير بدلا من ان استضيف موقعه على خادمى, مجانا." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"مازلت اعتقد انه كان تصرف طيب منك." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"حسنا, شقرائى طيب او غير طيب, وقتى و مواردى لا يوزعوا مجانا. إنه عالم قاس و إذا كنت ترغبى فى جعله مكانا افضل, لا يجب ان تتخلى عن وقتك, لأنه اغلى كثيرا من ان يقدر بثمن." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"شقرائى, مرة أخرى؟" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">ابتسمت إريسا. "جينيفر, السبب الوحيد الذى يجعلنى اطلق عليك شقرائى هو إنى فتاة طيبة متعاطفة تحب لون شعرك." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">حاولت معانقتها فقالت لى "لا عناق!" و انا توقفت و تراجعت, فى حين عادت إلى كتابها.</text:p>
+      <text:p text:style-name="P16"><text:bookmark-start text:name="ام اى ام ايى بو أو ايى أكس يو ال و وحوش أخرى"/><text:bookmark-start text:name="سيكون هذا شريرا مثل بريد اتش تى ام ال الإلكترونى"/>ام اى ام ايى, بو أو ايى, أكس يو ال و وحوش أخرى<text:bookmark-end text:name="ام اى ام ايى بو أو ايى أكس يو ال و وحوش أخرى"/><text:bookmark-end text:name="سيكون هذا شريرا مثل بريد اتش تى ام ال الإلكترونى"/></text:p>
+      <text:p text:style-name="P16">
+        <text:soft-page-break/>
+      </text:p>
+      <text:p text:style-name="P19"/>
+      <text:p text:style-name="P8">واصلت تعلم اشياء جديدة كل يوم. بمساعدة إريسا, تعلمت لغة السى, (و التى هى اكثر إثارة من باسكال), برمجة شبكة الأنترنت, كتابة تطبيقات الويب, بعض برمجة الواجهة الرسومية (صعب جدا عملها بصورة صحيحة, لكنها مازالت ممتعة), العمل مع قواعد البيانات و أكثر من ذلك. إريسا أعطتنى مشاكل مثل "إصلاح على الأقل ثلاثة أخطاء من متتبع الأخطاء فى المشروع الفلانى" أو "إضافة ميزة جديدة فى المشروع العلانى". </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">شىء واحد اكتشفته ان قرأت الكود و فهمه اصعب بكثير من كتابته. لكن بعد ما فهمت كيف يعمل, اصبح بإمكانى إضافة ميزة جديدة أو إصلاح خطىء بسهولة. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">الأى ار سى كان ايضا مساعدة كبيرة. عندما كانت تواجهنى اى مشكلة, يمكننى ان اشترك فى القناة المناسبة و اسئل عنها. إذا لم يعمل ذلك, عادة ما احاول البحث فى الأنترنت, او ارسل لأحدى القوائم البريدية لأحدى مجموعات لينوكس المحلية, او الى المنتديات. الأى ار سى كان تجربة لطيفة جدا: قابلت ناس من جميع انحاء العالم و تجاذبت معهم اطراف الحديث بلا نهاية. كان الكثير من الأحاديث ممتع, قدم الكثير منهم رؤى جديدة و عرفنى بناس جدد. لم يكن هناك سوى شىء واحد أزعجنى. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">عندما كنت اعمل على صفحتى الخاصة, يمكننى بسهولة جدا ان اعبر عن نفسى. كنت قادرة على وضع الصور و الأصوات, روابط, نصوص معدلة, ملفات هناك. كان هذا اكثر إزعاجا حيث فى الأى ار سى لا يوجد إلا النص فقط, بعض الزينة عديمة الجدوى, الروابط التى كان يجب على نسخها و لصقها و جميع القيود الأخرى. كنت اريد المزيد. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">فى واحد من إجتماعات أل يو جى (لوج), تحادثت انا و جيف و شخص اخر يدعى إيرفن قبل بدء الإجتماع, و على نحو ما انتهى بنا المطاف بالنقاش حول الأى ار سى. لذلك جلبت هذا الموضوع. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قال جيف "هكذا, ربما نحن بحاجة لإنشاء بروتوكول أى ار سى جديد, الذى من شأنه السماح بمثل هذة الوسائط. الله يعلم اننى سمعت بعض الأشخاص يقولوا انهم يريدون ان يصبحوا قادرين على استعمال المعادلات الرياضية. هل دخلت فى اى وقت مضى لإحدى قنوات الرياضيات؟ التعابير المستخدمة هناك ليست مشهدا جميلا". </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">ضحكت انا و إريفن و جيف شاركنا. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">سالتهم "إذا نحن بحاجة لبروتكول جديد؟ ما الأساس الذى سنبنيه عليه؟" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قال جيف "حسنا ربما على ام أى أم ايى, ام اى ام ايى معيارى لأرسال البيانات و شبه البيانات, تحديد نوعها, إلخ. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قال جيف "اقول لكم ما؟" و قال: "نحن يمكننا ان نكتب نموذج اولى للخادم بلغة بيثون او بيرل او نستخدم بو اى ايى او تويستد." كنت مندهشة لإدراكى ما يعنيه ذلك. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قلت له "نعم, هيا بنا نكتب العميل بأستخدام موزيلا أكس يو ال. هذا سيمنحنا وسائل التعامل مع الميديا مجانا." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قال جيف "تفكير جيد يا جين." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">اضفت قائلة "و لكن لدينا بعد ذلك العديد من المسائل الأمنية المحتملة و التى نود تجنبها و ايضا كان علينا التفكير فى بروتكول قوى." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قال جيف "هيا بنا نذهب إلى السبورة و نبداء فى تصميم كل شىء." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">رسمنا العديد من المربعات, الأسهم, الكلمات الدلالية, و جميع الاشياء الأخرى. كان الدور على إريسا فى تقديم العرض و لكن لما رأت الجميع بجانب السبورة, منشغلين بالتصميم, اصبحت مشوشة على الفور. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">سألتنى "ماذا تفعلين؟" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"اهلا إريسا!, نحن نصمم بروتكول الجيل الجديد من أى ار سى مع العديد من التحسينات على الأى ار سى الأصلى." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"نعم, مثل دعم الميديا, التصاميم, الرياضيات, بروتكول اكثر قوة و العديد من المميزات, إلخ. كانت هذة فكرة جن." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قالت إريسا "مثير للأهتمام, حيث انكم جميعا مشغولين فى ذلك, اقترح تأخير العرض الذى سأقدمه ساعة واحدة. جن, انا <text:soft-page-break/>الأشياء التى ارغب فى تعليمك اياها حقا قاربت على النفاذ, و انت يجب عليك البدء فى هذا المشروع." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">أحمررت خجلا و قلت "بالتأكيد يا إريسا. يبدو مثيرا للغاية. انا لأعرف ان كنت مبرمجة جيدة ام لا. هل يمكن لاحد هنا ان يكون شريكى فى البرمجة؟" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">تطوع العديد من الناس و لكنى ناديت جيف "هل يمكنك ان تكون شريكى فى البرمجة؟" كنت احس انه يمكننى الأعتماد عليه. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"بالتاكيد و لما لا. حسنا جن انا سأكتب المواصفات و ابعث بها إليكى. جن هل تعرفين دوكبوك؟" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"سمعت عنه و لكن لا." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"أعتقد إذا انه على تعليمك اياه. انه ليس بالأمر الصعب." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قلت له "ممتاز, يمكننا الأن تصميم هذا البرنامج"</text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P5"/>
+      <text:p text:style-name="P16">"سيكون هذا شريرا مثل بريد اتش تى ام ال الإلكترونى....."</text:p>
+      <text:p text:style-name="P19">
+        <text:soft-page-break/>
+      </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">علمنى جيف كيف اتحقق من بيئة العمل التى أعدها للعمل على وثائق دوكبوك مقدما, من مخازن النسخ. ثم بدأنا العمل على المواصفات. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">دوكبوك مطول جدا بالمقارنة مع اتش تى ام ال أو اى شكل من أشكال الوثائق الأخرى عرفتها حتى ذلك الحين. فيما يلى لمحة صغيرة من ذلك: </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">
+        <text:s text:c="8"/>
+      </text:p>
+      <text:p text:style-name="P9">&lt;orderedlist&gt; </text:p>
+      <text:p text:style-name="P9"><text:s text:c="4"/>&lt;listitem&gt; </text:p>
+      <text:p text:style-name="P9"><text:s text:c="8"/>&lt;para&gt; </text:p>
+      <text:p text:style-name="P9"><text:s text:c="10"/>المادة الأول.</text:p>
+      <text:p text:style-name="P9"><text:s text:c="8"/>&lt;/para&gt; </text:p>
+      <text:p text:style-name="P9"><text:s text:c="4"/>&lt;/listitem&gt; </text:p>
+      <text:p text:style-name="P9"><text:s text:c="4"/>&lt;listitem&gt; </text:p>
+      <text:p text:style-name="P9"><text:s text:c="8"/>&lt;para&gt; </text:p>
+      <text:p text:style-name="P9">المادة الثانية.</text:p>
+      <text:p text:style-name="P9"><text:s text:c="8"/>&lt;/para&gt; </text:p>
+      <text:p text:style-name="P9"><text:s text:c="4"/>&lt;/listitem&gt; </text:p>
+      <text:p text:style-name="P9"><text:s text:c="4"/>&lt;listitem&gt; </text:p>
+      <text:p text:style-name="P9"><text:s text:c="8"/>&lt;para&gt; </text:p>
+      <text:p text:style-name="P9">المادة الرابعة!, انا امزح, انها المادة الثالثة. </text:p>
+      <text:p text:style-name="P9"><text:s text:c="8"/>&lt;/para&gt; </text:p>
+      <text:p text:style-name="P9"><text:s text:c="4"/>&lt;/listitem&gt; </text:p>
+      <text:p text:style-name="P9">&lt;/orderedlist&gt; <text:s text:c="7"/></text:p>
+      <text:p text:style-name="P8">
+        <text:s text:c="8"/>
+      </text:p>
+      <text:p text:style-name="P8"><text:s/>لكن مع الكثير من الكتابة السريعة و النسخ و اللصق, كان ذلك قد اصبح معتادا. يمكنك ترجمت الدوكبوك للعديد من الصيغ الأخرى: أتش تى ام ال, ملفات قارىء البى دى اف, مايكروسوفت وورد, حتى صفحات الدليل فى يونكس. حولنا بشكل روتينى لأتش تى ام ال فقط, و لكن فى بعض الأحيان كنا نحولها لبى دى اف ايضا. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">حققنا الكثير من التقدم فى ذلك اليوم, فى نهاية اليوم, كنا نرفع النسخة الأكثر حداثة لمخازن الكود, حملنا الموصفات فى عدة صيغ مختلفة لموقع محدد سلفا, ثم بعثنا برابط لما حقنناه بالفعل لقائمة بريدية لمجموعة اللينوكس. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">فى اليوم التالى, عندما كنت اراجع البريد الإلكترونى, رايت العديد من الرسائل حول هذا الموضوع. كما تسبب ذلك فى حرب كلامية. (اى ار سى يدعم الميديا؟ هذا سيكون شريرا مثل بريد اتش تى ام ال الإلكترونى."). على اية حال, كان بعض المداخلات مفيدا, بعض الناس قالت انها قد تكون قادرة على التبرع ببعض وقتها و مساعدتنا. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">انتهيت انا و جيف من كتابة المواصفات بعد ذلك بلقائين. ثم قدمنا ذلك و طلبنا التعليقات, ثم بدأنا العمل على العميل و الخادم. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">أخذ مننا ذلك بعض الوقت حيث انه كان علينا نحن الأثنين ان نتعلم موزيلا أكس يو ال, و لكننا تمكنا من الحصول على نسخة قابلة للعمل فى وقت قريب, و التى نفذت مجموعة فرعية من الوظائف. كان انيقا جدا التحدث من خلاله, مع العلم انه كنا نحن الأثنين فقط الذين يستعملوه. لذا بدأنا بتجهيز خادم مخصص لإختباره, جمعنا العميل و الخادم على هيئة عميل-ميديا-اى ار سى و عميل-ميديا-خادم-بيرل (الإصدارة 0.2.0 لكل منهما) ثم وضعناهم على شبكة الأنترنت و أعلنا عنه فى موقع Freshmeat. (موقع freshmeat.net هو الموقع الذى يصنف البرامج للينوكس و يعرض اخر الأخبار و اخر إصدارات.)</text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">كان مشروعا متكونا من مجموعتنا ال يو جى (لوج) للوقت الحاضر. إريسا قررت انه شىء لطيف, و استمرت فى استعمال النسخ الأخيرة الغير ثابته من البرنامج للتحدث به. هيا ايضا شاركت ببعض الرقع الظريفة للمشروع. تايلور تحمس له ايضا ("جن!, انتى الأن مطورة برمجيات مفتوحة المصدر من الطراز الأول") و ظل يطرح افكارا للكود, و يجرى بعض التعديلات. كما استخدمه اصدقاؤه (على الرغم من انهم ليسوا مهتمين بالتكنولوجيا, لأكون صريحة و لا يخافوا من الكومبيوتر ايضا) للتحدث من العمل و المنزل و ابلغوا عن العلل و الأشياء الأخرى. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">فتحنا قناة دعم للمشروع على الأى ار سى القديم, حيث يمكننا تنسيق الجهود فى حال انهار الخادم, او أحتجنا شىء بسيط. فى النهاية أنشئنا قائمة بريدية للمطورين. أعضاء الجماعات الأخرى قدموا لنا المساعدة و ظلوا يتابعوا القائمة. <text:soft-page-break/>كان كل شىء الكثير من المرح.</text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P5"/>
+      <text:p text:style-name="P16"><text:bookmark-start text:name="تى ار ايى زى"/>تى ار ايى زى<text:bookmark-end text:name="تى ار ايى زى"/></text:p>
+      <text:p text:style-name="P16">
+        <text:soft-page-break/>
+      </text:p>
+      <text:p text:style-name="P19"/>
+      <text:p text:style-name="P8">فى إحدى جلساتنا الرياضية شبه الإسبوعية, تناقشت انا و تايلور حول اخر الأحداث و الأخبار المتداولة. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">عندما عدت إلى المنزل هذة الليلة, بدأت اتحدث على قناة #بيرل مرة أخرى. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">&lt;جينراى&gt; مرحبا جميعا, لقد عدت. </text:p>
+      <text:p text:style-name="P8">&lt;رايندولف&gt; جينراى: مرحبا! </text:p>
+      <text:p text:style-name="P8">&lt;بيث&gt; جينراى: مرحبا! </text:p>
+      <text:p text:style-name="P8">--&gt; بيرلجيتكيبر دخل قناة #بيرل </text:p>
+      <text:p text:style-name="P8">&lt;بيرلجيتكيبر&gt; صباح الخير, #بيرل </text:p>
+      <text:p text:style-name="P8">&lt;بيث&gt; صباح الخير, بيرلى! </text:p>
+      <text:p text:style-name="P8">&lt;رايندولف&gt; مرحبا بيرلى! </text:p>
+      <text:p text:style-name="P8">&lt;جينراى&gt; مرحبا بيرلى. </text:p>
+      <text:p text:style-name="P8">&lt;جينراى&gt; هل يمكننى إستشارتكم يا رفاق فى مسألة شخصية؟ </text:p>
+      <text:p text:style-name="P8">&lt;رايندولف&gt; جينراى: اسئلى. </text:p>
+      <text:p text:style-name="P8">&lt;جينراى&gt; حسنا, ها انا أفعل: افضل اصدقائى تبدو بشعة جدا (شعر ارجوانى, الكثير من المكياج الغير متناسق, إهمال عام) </text:p>
+      <text:p text:style-name="P8">&lt;رايندولف&gt; تى ايى ار زى! </text:p>
+      <text:p text:style-name="P8">&lt;جينراى&gt; رايندولف: ما هو تى ار ايى زى؟ </text:p>
+      <text:p text:style-name="P8">&lt;رايندولف&gt; تى اى ار زى (تريز) == نظرية الحل الإبتكارى للمشاكل. </text:p>
+      <text:p text:style-name="P8">* جينراى محتارة </text:p>
+      <text:p text:style-name="P8">&lt;جينراى&gt; هذة ينبغى ان تكون تى ايى بى اس. </text:p>
+      <text:p text:style-name="P8">&lt;رايندولف&gt; جينراى: حسنا, هذة الأحرف الأولى باللغة الروسية. </text:p>
+      <text:p text:style-name="P8">&lt;جينراى&gt; رايندولف: اه, حسنا </text:p>
+      <text:p text:style-name="P8">&lt;بيرلجيتكيبر&gt; لماذا لا تقومين بإجبار هذة الفتاة على التحول و جعل شكلها يبدو أفضل. </text:p>
+      <text:p text:style-name="P8">&lt;جينراى&gt; و لكن ماذا عن موقفها؟ </text:p>
+      <text:p text:style-name="P8">&lt;بيرلجيتكيبر&gt; حسنا, عصفور فى اليد خير من إثنين على الشجرة. </text:p>
+      <text:p text:style-name="P8">&lt;جينراى&gt; بيرلى: ربما تكون على حق؟ </text:p>
+      <text:p text:style-name="P8">* رايندولف يعطى بيرلىجيتكيبر ميدالية تى ار ايى زى الدولية. </text:p>
+      <text:p text:style-name="P8">&lt;جينراى&gt; بيرلىجيتكيبر++ </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P5"/>
+      <text:p text:style-name="P16"><text:bookmark-start text:name="التغير شىء جيد"/>التغير شىء جيد<text:bookmark-end text:name="التغير شىء جيد"/></text:p>
+      <text:p text:style-name="P16">
+        <text:soft-page-break/>
+      </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">وصلت انا و أماندا (إحدى صديقاتنا) بعد ظهر ذلك اليوم الجمعة إلى منزل إريسا, كنا نحمل الكثير من الماكياج و إكسسورات رعاية الفتيات. قرعنا جرس الباب و أجابتنا أم إريسا. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قالت "مرحبا جينفر". </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قلت لها "مرحبا سيدة سيجل". </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"ماذا تفعلوا <text:s/>بكل هذة الأشياء؟" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"نحن نخطط لعمل تحول شامل لإريسا. 'بدون ما تعرف' ". </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"ستكون مهمة صعبة إذا سالتنى, هل هى وافقت؟" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"ليس بعد, و لكننا احضرنا الحبال ربما نحتاجهم." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"رائع, موافقة, ادخلوا." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">دخلنا المنزل و صعدنا الدرج و طرقنا باب غرفة إريسا. سمعناها تنادى "ادخل" وسط كمية ضوضاء عالية من مويسقى الميتال الثقيلة. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">فتحنا الباب. إريسا كانت تجلس بجوار الكومبيوتر تفعل شيئا ما و عندما دخلنا التفت إلينا قائلة "مرحبا شباب!, واو!, ما كل هذة الأشياء؟" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قلت لها "نحن على استعداد لتغييرك الليلة." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"ماذا؟ تعنين تغيير كامل؟ لن اسمح بذلك...." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"نعم ستسمحين, إما ان نفعل ذلك بالطريقة السهلة او بالطريقة الصعبة." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قالت إريسا و هى تقف من كرسيها "الطريقة الصعبة", و أتخذت وقفة دفاعية, مثبتتة قبضة يدها "يجب عليك ان تصلى الى اولا." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">فقلت لها حسنا و اقتربت منها و امسكت يدها بسرعة و دفعتها ناحية الحائط فضربت رجلى برجلها - المتنى قليلا و لكنه</text:p>
+      <text:p text:style-name="P8">لم يكن شيئا لا استطيع التعامل معه. قلت لها "انا اذهب للتمرين مرتين اسبوعيا, اتدرب بأوزان من بين امور اخرى." </text:p>
+      <text:p text:style-name="P8">صرخت فى وجهى "استطيع ان ارى ذلك يا مس أمريكا....", "حسنا, حسنا, ساتركك تفعلين هذا التغيير." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">تركتها و انا اسئل "هل تعدين؟" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"أقسم بالحياة و الحرية و تكس البطريق باننى ساسمح لكى بعمل التغيير و انا متعاونة بالكامل." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"><text:s/>سألتها "هل تفعلين ذلك لأنى طلبته منك؟" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قالت "لا, انا افعل ذلك لأتمكن من تحريك اطرافى اللعينة!" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قالت اماندا "هذا امر جيد, الأن هل تريدون البقاء هنا يا اولاد و الحصول على دورة رعاية الجمال؟" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قال أخو إريسا "لا سأكون فى الأسفل. اقضوا وقتا ممتعا." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">بقيت انا و اماندا لتحسين مظهر إريسا. كان اول شىء فعلناه هو إزالة صبغة شعرها. ثم أشرنا إليها بضرورة الأستحمام و غسل شعرها. أزلنا كل الماكياج التى كانت تضعه, و اريناها كيف تستعمل المكياج الجديد بطريقة افضل. ثم رتبنا شعرها, و طلبنا منها إختيار لباس مناسب. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">تركناها تنظر لنفسها فى المرأة لمعاينة التحسن. </text:p>
+      <text:p text:style-name="P8">
+        <text:soft-page-break/>
+      </text:p>
+      <text:p text:style-name="P8">إريسا نظرت لنفسها مبتسمة و قالت "واو!, انا ابدو....أنا ابدو....لا!...لن أقولها - هذا سخيف جدا." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قلت لها "كما ترين, نحن انتهينا معك." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"سوبر. حسنا تحولت او لا, مازال عندى مسئولياتى كمطورة برمجيات. تركت بضع اشخاص فى مأزق عندما وصلتم,أئمل حقا ان استطيع التواصل معهم." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قلت لها "فقط لا ترهقى نفسك او أى شىء من ذلك, انا ذاهبة للطابق السفلى." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قالت اماندا "سانضم إليكى." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">كان دانيال يلعب لعبة فيديو, فى حين ان جونثان كان يأكل سلطة فاكهة. قلت لهم "إنها جاهزة". </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">رد دانيال و جونثان فى وقت واحد "ممتاز". </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">صاح إخوتها يا الله عندما كانت تنزل على الدرج ببطء. و قد رتبت شعرها الأسود الطائر على شكل كرة و ذيل حصان, و كان يلمع فى الضوء. ثوبها الأسود جعل مظهرها مميزا بشكل جميل و خاص. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قالت بعد ما وصلت الطابق الارضى "كيف ابدو؟" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"تبدين رائعة" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">فكرت إريسا لدقيقة و قالت : " أريسا كان هذا الأسم القديم لى و المؤقت , أسمى أيف." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">و هكذا سالتنا والدة إيف "هل تريدون البقاء للعشاء؟" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قال الجميع "نود ذلك سيدة سيجل" و قلت انا ايضا و انا كذلك.</text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P5"/>
+      <text:p text:style-name="P16"><text:bookmark-start text:name="كان هذا مثيرا جدا!"/>كان هذا مثيرا جدا!<text:bookmark-end text:name="كان هذا مثيرا جدا!"/> </text:p>
+      <text:p text:style-name="P16">
+        <text:soft-page-break/>
+      </text:p>
+      <text:p text:style-name="P19"/>
+      <text:p text:style-name="P8">لقد تغيرت إيف بالتأكيد. اجتمعت انا و إيف كثيرا فى المدرسة, و قضيت الكثير من الوقت اناقش مشروع الميديا ايى ار سى و تبادل الأخبار. رأيت إيف مع العديد من زملائها الإسرائليين او اليهود الذين يتكلمون العبرية. سالتها عن ذلك فى أحدى جلساتنا فى صالة التمرين, قالت انها مازالت تقراء بشكل سرى الكتب العبرية التى تمتلكها, حتى لا تنسى اللغة. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">فى يوما ما سالتها. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"اسمعى بخصوص الأم-ايى ار سى, كنت أفكر فى انه ربما علينا تحويل الخادم للغة السى. النسخة المكتوبة ببيرل لن تستحمل اكثر من مما عندنا الأن, نحن ربما سنحصل على المزيد من المستخدمين." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قالت إيف "صحيح, نسخة البيرل كانت مجرد نموذج أولى ليس أكثر, على أية حال." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"الان فى ما يتعلق بجعله متعدد المعالجة او متعدد الخيوط, هذا شىء قد احتاج بعض التوجيه فيه, لأنى لم يسبق لى فعله من قبل." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قالت "هممم.., النواة المساعدة بتعدد المهام يمكنها ان تكون علبة ديدان. خاصة متعددة الخيوط. لكنى لا اعتقد انها تختلف اختلافا كبيرا عما تقدمه خوادم الأيى ار سى الأخرى." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"انت تعنى انه يمكننى ان اقراء الكود الخاص بهم و اتعلم؟" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">اضافة قائلة "اعتقد, لا يمكن ان تضر حقا." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قلت لها "موافقة" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">بعد بضعة ايام كنت اجلس بجانب الكومبيوتر, تفحصت بريدى الإلكترونى و لاحظت بريد واحد للقائمة البريدية الخاصة بميديا ايى ار سى عنوانه "[رقعة] للعميل -- إضافة إمكانية التسجيل." من شخص يدعى "جان بيير غوردو" من فرنسا. كانت هذة اول مساهمة من خارج مجموعة المستخدمين! كنت متحمسة جدا, لذلك قررت مهاتفة إيف على هاتفها. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"مرحبا جن! ما الأمر؟" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"إيف مرحبا!, خمنى ماذا؟ تلقينا بعض الرقع من رجل فرنسى!" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">سمعتها على الطرف الأخر تقول "تلقينا رقعة من شخص خارج الوج.";"اااه, انا قادمة حالا. فى الوقت نفسه راجعى الرقعة." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"حسنا. الرقعة تبدو جيدة مما رأيت. إنها طويلة جدا على الرغم من ذلك." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">أضافت "ربما ينبغى لى ان القى نظرة كذلك". استعرضنا الكود سويا و راجعناه استغرق منا بعض الوقت, لكننا كنا مقتنعين أخيرا انه عمل بشكل جيد. ثم اضفنا الرقعة لنسختنا الخاصة, أختبرنا ماذا تفعله بالضبط. بعد ذلك كنا سعداء بالنتائج, ثم رفعناها لمركز تحكم النسخ. (مع الإشارة ل جان بيير), و بعثنا له بريد إلكترونى ان "شكرا لك, لقد راجعنا مشاركتك و طبقناها.". </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">هذا مثير للغاية.</text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P5"/>
+      <text:p text:style-name="P16"><text:bookmark-start text:name="ريشا - ميه هو اومير؟"/>ريشا - ميه هو اومير؟<text:bookmark-end text:name="ريشا - ميه هو اومير؟"/></text:p>
+      <text:p text:style-name="P16">
+        <text:soft-page-break/>
+      </text:p>
+      <text:p text:style-name="P19"/>
+      <text:p text:style-name="P8">قابلتنى إيف فى مختبر الكومبيوتر فى وقت لاحق و قالت "اسمعى, عائتلى الكبيرة مجتمعة لتقضى عيد الفصح فى منزلنا ليلة السبت المقبل. عادة ما افعله هو الخروج من المنزل لتجنب ذلك, و لكن هذا العام قررت البقاء". </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قلت لها "حسنا, ماذا بعد؟" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"حسنا, انا أتسائل عما إذا كنتى ترغبين فى الإنضمام لنا؟" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قلت لها "حسنا, ليس عندى شىء افضل لافعله فى هذا الوقت." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قالت إيف "عظيم, سوف اراك حينها." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">فى السبت المقبل, أخذت بعض الوقت للأستعداد. تذكرت ان بعض المتدينين اليهود كانوا يرفضوا إرتداء الأناث السراويل و اشياء من هذا القبيل, لذلك ارتديت ثوبا جميلا, ثم ذهبت إلى بيت إيف. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">أجابت إيف الباب. قالت "مرحبا جنيفر!, من فضلك أدخلى و خذى راحتك كأنه منزلك, دعينى اقدمك لعائلتى", كانت ترتدى ايضا فستان لطيف عليه زهور و ما إلى ذلك. كان هناك الكثير من الضجة فى المنزل و العديد من أصوات الكبار و الصغار. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">و هكذا التقيت بأعمام إيف و عماتها و أبناء عمومتها و جدودها. بعد ان انتهينا من لقائهم جميعا ذهبنا لغرفة المعيشة, حيث دانيال و ديبورا كانوا مشغولين فى لعبة فيديو. أعلن دانيال فجأة :"انتى سيئة فى هذا", بعد ان فاز بجولة أخرى. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">أجابته إبنة عمه "حسنا, انت لديك هذة اللعبة فى المنزل, <text:s/>تستطيع ان تمارسها اكثر من ذلك بكثير بينما انا لا. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">سألنى دانيال انا و إيف "هل ترغبون فى جولة؟, هذة اللعبة غبية على أية حال." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قلنا "بالتأكيد, موافقون." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">نظرت لنا ديبورا و هى تترك ذراع اللعب و قالت "أنتما الأثنان شعركما جميل, هل يمكننى ان العب به؟" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قال دانيال "مهلا, اريد ان العب ايضا!" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قلت لهما "بالتأكيد" و ان امسك ذراع اللعب </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قالت إيف "لا توجد مشكلة هنا ايضا. فقط لا....لا تخلطى الأذرع الخاصة بشخصين مختلفين." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قلت و انا أخذ مسافة قليلة من إيف "حسنا, سنجلس منفصلين." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قلت لها "ماذا يفعل كل زر؟" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">شرحت إيف بافضل ما يمكنها ثم بدأنا نلعب. لم أكن جيدة و لا سيما فى ذلك, و لكن يبدو ان إيف كانت اسواء أكثر من ذلك. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قالت "دانيال محق. هذة اللعبة غبية. "أنتى تعرفى بعض العاب دى او اس (دوس) القديمة كانت أكثر ذكاء. الكثير من الألعاب, العاب المغامرات, و الأشياء التى تحتاج إلى تفكير لتتقدمى فيها. ماذلت العبهم باستخدام محاكى دى او اس (دوس) مبنى على لينوكس." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قلت لها "حسنا لم أكن يوما من معجبى العاب الكومبيوتر.", "فرى سيل هى اللعبة الوحيدة التى العبها تقريبا. طبعا وجدت ان لعبها بأستخدام باى سول (PySol) على لينوكس أفضل بكثير من تلك التى تأتى مع وندوز." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قالت "هيه, لعبة فرى سيل الخاصة بميكروسوفت هى حماقة مطلقة." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">و اضافت قائلة "تعلمين, أنا قرات فى الواقع مقالة تستعرض الألعاب التى تم إصدارها مؤخرا -- أول شخص يطلق النار. قالت المقالة الأستعراضية ان الرسومات جميلة و كل شىء, لكن بخلاف ذلك لديك كمية لا حصر لها من الذخيرة, و يمكنك قتل عدد لا حصر له من الوحوش التى تظهر لك. هذا ممل للغاية. و مع ذلك اختتمت بقولها انهما يمكن ان تكون جيدة <text:soft-page-break/>لفصل صيف حار, بدلا من ان تقول انها سيئة للغاية." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قالت ديبورا لدنيال "انت تفعل ذلك بشكل غير صحيح, اسمح لى ان اريك كيف ترتب شعر فتاة." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">تنهدت و واصلنا اللعب لبضع دقائق تالية. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قالت والدة إيف "هيا جميعا, و اجتمعنا على مائدة الطعام. وقفت انا و إيف و مشينا بأتجاه المائدة. و نحن نعبر سألتنا السيدة سيجل "أيف, جنيفر, ماذا حدث لشعرك؟" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">نظرت انا و إيف لبعضنا البعض ثم انفجرنا من الضحك فى وقت واحد. "هيه, لا تبالى, سنقوم بإصلاحه فى وقت لاحق." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">إيف و عدد قليل من الأقارب الذين يعرفون كيفية قرأة اللغة العبرية, بدأوا فى قرأة هاجاداه عيد الفصح (ترانيم مكتوبة) و فى نفس الوقت ترجمته إلى الأنجليزية بسرعة, فى كل مرة كانوا يوعزوا إلينا ما يجب القيام به. عندما وصلنا إلى الجزء الذى تحدث فيه القانون العبرى ضد الأبناء الأربعة و الشرير, قالت إيف: </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"بالنسبة لهذا الجزء, أعددت مسبقا جوياه..." و اشارت إلى. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"هيه, شيكسا." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قلت لها "حسنا, ساقراء بمساعدتك." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"حسنا: 'راشا - ماه هو اومير؟'" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"راشا - ماه هو اومير؟" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"قريب بما فيه الكفاية!", ثم واصلنا. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">بعد فترة جاء الطعام, و بعد الوجبة استمر بعض الناس فى قراءة الهاجاداه, بينما معظم الأخرين بداءوا فى تعبئة الأشياء او تحدثوا او لعبوا. كان هناك الكثير من المرح. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">بعد الأحتفال, عدلت انا و إيف شعر بعضنا البعض. قالت إيف "تعرفين, ربما دانيال و ديب عندهم موهبة خفية كمصففى شعر." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قلت لها و نحن نتبادل الأماكن "هل تعتقدين ذلك؟ و شعرك غير متانسق قليلا. لو عندهم الموهبة فانا اعتقد انها فعلا مخفية جيدا." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P5"/>
+      <text:p text:style-name="P16"><text:bookmark-start text:name="التخلى عن دبيان"/>التخلى عن "دبيان"<text:bookmark-end text:name="التخلى عن دبيان"/></text:p>
+      <text:p text:style-name="P16">
+        <text:soft-page-break/>
+      </text:p>
+      <text:p text:style-name="P19"/>
+      <text:p text:style-name="P8">من: إيف سيجل &lt;eve@eve-siegel.eu.org&gt; </text:p>
+      <text:p text:style-name="P8">إلى تطوير-دبيان &lt;debian-devel@lists.debian.org&gt; </text:p>
+      <text:p text:style-name="P8">الموضوع: "التخلى عن دبيان" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">مرحبا جميعا! </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">لقد كانت دبيان توزيعتى المختارة لثلاث سنوات الأن. يمكننى ان اشهد </text:p>
+      <text:p text:style-name="P8">انى كنت سعيدة للغاية معها, و كما لاحظتم لقد ساهمت ايضا من خلال </text:p>
+      <text:p text:style-name="P8">كونى مجمعة برامج. فى الأونة الأخيرة لاحظت تعدد توجهات المجتمع, </text:p>
+      <text:p text:style-name="P8">و المواقف من دبيان التى جعلتنى اقرر التخلى عنها. </text:p>
+      <text:p text:style-name="P8">كان جزء من هذا التحول, تحول فى شخصيتى (تحول للأحسن فى الواقع) </text:p>
+      <text:p text:style-name="P8">الذى جعلنى ادرك ان دبيان لم تكن التوزيعة التى انتمى إليها. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">الأسباب التى لأجلها لا أحب دبيان الأن هى: </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">1. المجتمع يتكون من العديد من الناس الذين صوتهم عال, معتد بنفسه, </text:p>
+      <text:p text:style-name="P8"><text:s/>يشعر بتفوق توزيعته على كل الأخرين. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">بينما انا لا اتهم اى من قيادات دبيان بهذا, يبدو اننا جميعا لا </text:p>
+      <text:p text:style-name="P8">نفعل شيئا يذكر لتوضيح هذا السلوك الغير مقبول. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">دبيان لها بعض المزايا على التوزيعات الأخرى. كما كانت دائما </text:p>
+      <text:p text:style-name="P8">او مازال لديها بعض العيوب. مع ذلك, يقولوا للعالم كم نحن </text:p>
+      <text:p text:style-name="P8">أفضل من الأخرين (لو نحن فعلا أفضل) لن يساعدنا ذلك فى </text:p>
+      <text:p text:style-name="P8">جعلها افضل. العاملون على التوزيعات الأخرى اقل تبجحا, </text:p>
+      <text:p text:style-name="P8">و يستثمروا الوقت فى سد الثغرات. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">2. محاولة تطبيق المبادىء التوجيهية لبرمجيات دبيان الحرة </text:p>
+      <text:p text:style-name="P8">إلى الاشياء التى ليست برمجيات لن يجلب اى خير. البرنامج </text:p>
+      <text:p text:style-name="P8">هو شىء ينبغى ان يكون ملتزما بأيدلوجية البرمجيات الحرة. </text:p>
+      <text:p text:style-name="P8">الوثائق, الخطوط, الرسوم, الموسيقى, انواع المحتوى </text:p>
+      <text:p text:style-name="P8">المختلفة, اللعب بالقواعد المختلفة و تضمن مختلف المبادىء </text:p>
+      <text:p text:style-name="P8">التوجيهية لإدراجها فى التوزيعة, غير تلك المطبقة على البرمجيات. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">أخر شىء نحتاجه هو إختفاء الوثائق فى غياهب النسيان فى المخازن </text:p>
+      <text:p text:style-name="P8">الغير حرة, الخطوط يتم رفضها لكونها غير قابلة للتعديل, و العديد </text:p>
+      <text:p text:style-name="P8">من مسببات الضيق مثل هذة. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">كمثال صارخ, هل سنزيل كل حزم تراخيص الملفات لأن نصوصها </text:p>
+      <text:p text:style-name="P8">ليست حرة مثل الكلام؟ </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">3. ترتبية دبيان كبلد ديمقراطى على الأنترنت, يسبب الكثير </text:p>
+      <text:p text:style-name="P8">من الأثار الجانبية السيئة. لأن الناس ببساطة لم يقبلوا لأن </text:p>
+      <text:p text:style-name="P8">هناك الكثير من الخطوط الحمراء. هناك الكثير من الإجراءات. </text:p>
+      <text:p text:style-name="P8">أشياء كثيرة تقرر وفقا للتصويت بدلا من ما هو أفضل للقيام به. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">إعادة هيكلة دبيان بإعتبارها فضوى مسيطر عليها من قبل قيادة خاسرة </text:p>
+      <text:p text:style-name="P8">تفعل ذلك جيدا جدا. بخلاف ذلك, على ما يبدو تسير الأمور ببطء شديد: </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">كان دبيان يستخدم مثبت سىء للغاية لوقت ليس ببعيد, و حتى الأن </text:p>
+      <text:p text:style-name="P8">لا يستند على واجهة رسومية بل يعتمد على شبه الرسوميات. </text:p>
+      <text:p text:style-name="P8">علاوة على ذلك, دورة إصدار دبيان طويلة جدا لكى تكون فعالة </text:p>
+      <text:p text:style-name="P8"><text:soft-page-break/><text:s/>بالنسبة لمعظم المستخدمين. (نحن ينبغى ان نتذكر ان استخدام </text:p>
+      <text:p text:style-name="P8">التوزيعة التى تعتمد على احدث البرمجيات الغير مختبرة ليس خيارا </text:p>
+      <text:p text:style-name="P8">لكل المستخدمين, الذين لا يمكنهم تحميل الحزم المفرطة من </text:p>
+      <text:p text:style-name="P8">الأنترنت). و علاوة على ذلك, لا تزال دبيان تفتقر الى العديد </text:p>
+      <text:p text:style-name="P8">من الأدوات الرسومية الموجودة بالفعل فى العديد من التوزيعات </text:p>
+      <text:p text:style-name="P8">الأخرى هذا ليس جيدا. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">------------ </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">هذا ابعد من قدراتى على إصلاح كل هذة المشاكل بنفسى. </text:p>
+      <text:p text:style-name="P8">لذلك بحثت عن توزيعة بديلة. اشتريت قرص صلب جديد </text:p>
+      <text:p text:style-name="P8">و أنتوى تكريسه لتجربة التوزيعات. لفترة طويلة أوصيت </text:p>
+      <text:p text:style-name="P8">بماندراك بالنسبة للقادمين الجديد لتعريفهم بالينوكس. </text:p>
+      <text:p text:style-name="P8">لذلك قررت محاولتها. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">ماندراك لطيفة جدا, , انا سعيدة باستعملها. لقد وفرت </text:p>
+      <text:p text:style-name="P8">قسم مخصوص لأستعمال ماندراك كوكر (توزيعة بأخر البرمجيات </text:p>
+      <text:p text:style-name="P8">الغير مختبرة) و قسم اخر للتوزيعة المستقرة. هناك الكثير من الغراء </text:p>
+      <text:p text:style-name="P8">و التكامل فى التوزيعة و <text:s/>كل شىء صنع ليعمل معا. التوزيعة حديثة </text:p>
+      <text:p text:style-name="P8">و كل إصداراتها أكثر تواترا من دبيان. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">صحيح ان العلل فيها اكثر من دبيان, و لا سيما فى ماندراك كوكر. </text:p>
+      <text:p text:style-name="P8">لكنها ليست اشياء لا استطيع التعامل معها, لذلك انا سأحاول إصلاح </text:p>
+      <text:p text:style-name="P8">ما اجده. انا ساهمت بالفعل بتقارير عن بعض العلل, بعض الإصلاحات, </text:p>
+      <text:p text:style-name="P8">و قدمت العديد من الحزم الجديدة أيضا. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">علما بانى يمكننى الأستمرار فى استخدام و العمل على دبيان, سواء </text:p>
+      <text:p text:style-name="P8">بإقلاعه على جهاز او تشغيله على جهاز وهمى. سأواصل الحفاظ </text:p>
+      <text:p text:style-name="P8">على الحزم التى تخصنى فى دبيان على الأقل حتى يتطوع احد </text:p>
+      <text:p text:style-name="P8">و يأخذ مكانى. و لكنى لم اعد رسميا دبيانية. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">المخلصة, </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"><text:s text:c="5"/>إيف سيجل ("إريسا"). </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">إيف ارسلت لى نسخة من هذة الرسالة. لقد أحدثت هذة الرسالة مناقشة كبيرة على القائمة البريدية التى ارسلت إليها. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P5"/>
+      <text:p text:style-name="P16"><text:bookmark-start text:name="أر أم أس سيأتى للمدينة"/>أر أم أس سيأتى للمدينة<text:bookmark-end text:name="أر أم أس سيأتى للمدينة"/></text:p>
+      <text:p text:style-name="P16">
+        <text:soft-page-break/>
+      </text:p>
+      <text:p text:style-name="P19"/>
+      <text:p text:style-name="P8">فى يوم ما عندما كان جونثان و تايلور و انا نتحدث فى أحد ممرات مدرستنا, رأينا إيف تقترب منا و هى تحمل قطعة من الورق, كانت متحمسة جدا لرؤيتنا. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قال جونثان "مرحبا إيف, كيف حالك؟" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قالت و هى تقترب منا "يا رفاق -- لدى أخبار مثيرة للغاية, أر أم أس سيأتى للمدينة." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">فى حال كنت لا تعرف, "أر أم أس" هو ريتشارد ستالمان. واحد من المطوريين الأصليين فى مختبر معهد ماستشوستس لتكنولوجيا الذكاء الإصطناعى. كما انه صاغ مصطلح "البرمجيات الحرة" ("الحرية" كما فى "حرية التعبير" أو "الحرية نفسها") الذى يصف نماذج التراخيص المعينة من البرامج و المكونات, هو مشهور الان بين المطورين و العديد من الشركات الكبيرة و الصغيرة و المنظمات الأخرى. هذا النموذج الذى أصبح لاحقا يعرف بأسم "البرمجيات مفتوحة المصدر", التى هى الأن الأكثر شهرة و التى أنا و أصدقائى نستخدمه عادةعندما نتحدث مع غيرنا. (بعض النشطاء فى مجال البرمجيات لا يزال يشعر ان هناك فرقا دلاليا و ايدلوجيا بين مصطلحى "البرمجيات الحرة" و المصادر الحرة", و لكن انا لست مفتونة إلى حد كبير بالصفة.) </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">و على أية حال, ستالمان ذهب ليصنع مشروع جنو كجزء كبير من حزم البرمجيات الحرة (أو "المفتوحة المصدر" منها لو تحب), التى تشكل جزءا كبيرا و اساسيا لكثير من أنظمة يونكس الشبيهة (بل و متاحة و شائعة الأستخدام فى بعض أنظمة يونكس غير مفتوحة المصدر و بعض النظم الغير شبيهة بيونكس مثل مايكروسوفت وندوز). اليونكسات المبنية على جنو تعرف الأن بأسم "لينوكس", و التى تشغل نواة لينوكس جنبا إلى جنب مع برمجيات جنو و برمجيات اخرى حرة (و على هذا النحو, ستالمان و أخرون من رجال جنو يصروا على وصفها بأنها "جنو/لينوكس" بدلا من مجرد لينوكس.) </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قال تايلور "عظيم!", "جن, هل تحبين مقابلته؟" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قله له "أفترض, كنت أفضل الا تفوت هذة الفرصة. و لو ان له سمعة انه عنيد جدا. كيف هو فى الحياة الحقيقية؟" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قالت إيف "التقيته العام الماضى انا و تايلور و وقعنا أيضا مفاتيح بعضنا البعض. إنه لطيف جدا فى الحياة الواقعية: ذكى, مضحك, شخص هيبى لطيف. انا واثقة انك ستحبيه." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"حسنا, هناك حفلة توقيع ايضا. هممم انها بعيدة قليلا من هنا. أظن ان اربعتنا عليهم أقتراض سيارة. جونثان هل ستأتى ايضا؟" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"طبعا, لما لا؟ ماهى حفلة توقيع المفاتيح؟" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">أجابت إيف: "توقيع المفتاح هو شىء تفعله بمفتاحك المشفر و مفتاحك الخصوصى. عندما توقع على مفتاح شخص فأنت تعترف ان هذا المفتاح ينتمى لهذا الشخص." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"حفلت توقيع المفاتيح ممتعة, و لكن لو سألتنى, فرصة ان يقوم احد ما بهجوم الرجل-الذى-فى-المنتصف على الأنترنت صغيرة جدا. انا اراهن ان أن أس أيه لا تستطيع ان تفعل ذلك." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قلت "همم, ليس عندى زوج مفاتيح جى بى جى بعد [جنو بريفاسى جارد]. أعتقد انى سأصنع واحد لهذة المناسبة. هل هناك وثيقة حول كيفية فعل هذا؟" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قال تايلور "نعم وثيقة "كيف تفعل" لحفلة توقيع المفاتيح. أستخدام جى بى جى ليس علم صواريخ بالضبط." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قلت "عظيم!" ثم تناقشنا فى ترتيبات كيف سنذهب. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">فى يوم الإجتماع, وضعت كل ما أحتاج فى حقيبة تحمل على الظهر, و تقابلت مع إيف و تايلور و جونثان و ذهبنا كلنا. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">كانت قاعة العرض مزدحمة للغاية حيث يقدم عرض ستالمان, كان ذلك متوقعا. وجدنا السيد ستالمان هناك و قررنا الأقتراب منه بعد ذلك. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قدم أر أم أس عرضا مسليا جدا عن تاريخ حركة البرمجيات الحرة, ماذا كانت تعنى له و كيف يمكننا المساعدة. حكى قصة حياته فى معهد ماساتشوستس للتكنولوجيا الذكاء الإصطناعى, حادثة الطباعة و كيف قام بتصحيح الوضع. كما اعطى <text:soft-page-break/>العظة المعتادة عن لماذا هو مهم أن نقول "برمجيات حرة" بدلا من "المفتوحة المصدر" و "جنو/لينوكس" بدلا من "لينوكس" فقط. طوال الحديث القى العديد من النكات مما ادى إلى انفجار الجمهور بالضحك. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">ثم استقبل اسئلة الجمهور لبعض الوقت. كانت الإجابات أحيانا صارمة و أحيانا مضحكة. ثم بدء حفلة توقيع المفاتيح. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قررنا ان ستالمان سيوقع كل المفاتيح على حدة و بعد ذلك يمكن للباقى توقيع مفاتيحهم البعض. وقفت فى طابور طويل, أظهرت للسيد ستالمان بطاقتى و العكس بالعكس. لم يشارك تايلور و إيف ﻷنهم وقعوا مفاتيحهم بالفعل. فى نهاية الأمر, كان أر أم أس اصبح متفرغا, وواصلنا توقيع المفاتيح بيننا البعض. ثم جاء الوقت لبعض الإجتماعيات: ستالمان جلب بعض الكتب و الهدايا الأخرى التى يبيعها لجمع أموال لصالح مؤسسة البرمجيات الحرة. (بينما يوقع عليهم) </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">بعد فترة من الوقت إقتربت منه إيف و قالت "مرحبا سيد ستالمان!, أنا إيف سيجل رأيتك فى لوس أنجليس منذ بضع سنوات. لعلك تذكرنى بأسم إريسا. تحدثنا على البريد الإلكترونى فى وقت لاحق -- عن شرور الشركات التجارية, حرية الفكر البرمجى و أشياء من هذا القبيل" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"إريسا, نعم اتذكرك. اممم شعر أخضر وقتها؟" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"نعم, فى واقع الأمر. منذ ذلك الحين اصبح أرجوانى, لكن الأن انا طبيعية." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قال ستالمان "تبدين لطيفة" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"شكرا, انت أيضا. ماذا تفعل الأن؟" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"أوه المعتاد, الدعوة للبرمجيات الحرة, أحاول تحويل العالم لأيدلوجية البرمجيات الحرة." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"جيد, يجب على شخص ما القيام بذلك." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"حسنا على أية حال, من فضلك قابل صديقتى و تلميذتى فى التطوير -- جينفر ريموند. جينفر <text:s/>السيد ستالمان و العكس بالعكس." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">قلت له "سعيدة بلقائك سيد ستالمان, لقد سمعت عنك الكثير." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"حسنا كل شىء إيجابى قد سمعتيه عنى فهو صحيح, و البعض من الأشياء السلبية أيضا." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">ضحكت انا و إيف و شاركنا ار ام اس. بعد ذلك كان بعض الحضور يريد التكلم مع ستالمان, نحن سمحنا لهم بالحديث. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P5"/>
+      <text:p text:style-name="P19">
+        <text:bookmark-start text:name="من الذي سيأخذ نظرة ثانية على ذلك ، ما لم"/>
+        <text:span text:style-name="T2">"من الذي سيأخذ نظرة ثانية على ذلك ، ما لم..."</text:span>
+        <text:bookmark-end text:name="من الذي سيأخذ نظرة ثانية على ذلك ، ما لم"/>
+      </text:p>
+      <text:p text:style-name="P19">
+        <text:soft-page-break/>
+      </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">انا لا اتذكر فكرة من, لكننا انتهينا بتسجيل إيف فى مسابقة ملكة العودة. عندما اكتشفت إيف انها كانت على قائمة المرشحين, تضايقت قليلا. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"ملكة العودة؟ لماذا اريد ان أكون ملكة العودة فى اى وقت؟" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">أجبتها قائلة "إيف, كنا نظن انك تستطيعى رؤية كم أنت جميلة, و كم يحبك الناس لو عرفوك." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"هاه! حسنا...., ليس عندى رد جاهز. لكنى سوف أحاسبكم على هذا. سأفعل حقا" قالت هذا و هى تغادر. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">ظهرت إيف المرشحة لملكة العودة و هى ترتدى أفضل الثياب عندها. عندما جاء دورها أعتلت المنصة و بدأت فى إلقاء كلمتها: </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"أيها السيدات و السادة. لا أعرف كم منكم يعرفنى, لكن أسمى إيف سيجل و أحثكم على إعطاء اصواتكم لى كملكة العودة لا ﻷجلكم و لكن لأجلى انا. أحتاج حقا لأصواتكم, لأن مستقبلى كله يعتمد على ذلك. حقيقة." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"القوا نظرة على سيرتى الذاتية, على سبيل المثال. "ذات خبرة بأجهزة الكمبيوتر و البرمجة منذ عام 1994"; "خبيرة فى تكونولجيا لينوكس و يونكس منذ 1998";"2000-2005 مجمعة برامج لدبيان","2005-للحالى مجمعة برامج ماندراك", و أكثر من هذا بلا قيمة. قولوا لى, من منكم سيلقى نظرة ثانية على سيرتى الذاتية لو لم يكن فيها "فى عام 2005 توجت ملكة العودة؟." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">أضافة قائلة "الأن ماذا سأفعل إذا ما تم أنتخابى. سأصنع تمثال عملاق ل تكس البطريق, و تكس هذا هو [صورة على الشاشة], و تمثال أخر ب بيستى جنى البى أس دى [صورة على الشاشة]. ساحارب السلوك التعسفى تجاه المهووسين و المهووسات, سامحو الأمية التكنولوجية, و ..... السلام العالمى." </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">"و لكن كل هذة الأسباب المحببة للبشر هى اسباب ثانوية لدوافعى الأنانية ﻷضطرارى للفوز بهذا اللقب من أجل مصلحتى الخاصة. شكرا لكم!" </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">إنها دمرت الموضوع عمليا بخطابها هذا. تايلور و أنا لم نقاوم الضحك الهستيرى. و أصبحت من المرشحين الخمسة. و بينما كانت الإنتخابات جارية, بدأت إيف حملتها الأنتخابية الخاصة بشعار "لا تصوتوا لإيف!" و وزعت كتيبات لا تحمل غير تشنيعات عن المرشحات اﻷربعة الأخريات. زاد هذا من شعبيتها إلى حد كبير. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">كانت ترتدى نفس الثوب الذى ارتدته خلال حفل ملكة العودة, كما تم الإعلان عن الوصيفات, تم عناقها عناق حار من الجميع. ثم أنتهت بكونها أول مركز فى الوصيفات بفارق خمسة اصوات فقط عن الفائزة الحقيقية. قالت انها سعيدة انها لم تحصل على اللقب, و لكنى لم ارى اسعد منها فى ذلك اليوم. </text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8">و لم تضعها فى السيرة الذاتية الخاصة بها.</text:p>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P8"/>
+      <text:p text:style-name="P6"/>
+      <text:p text:style-name="P18"><text:bookmark-start text:name="الله يعمل بطرق غامضة"/>الله يعمل بطرق غامضة<text:bookmark-end text:name="الله يعمل بطرق غامضة"/></text:p>
+      <text:p text:style-name="P18">
+        <text:soft-page-break/>
+      </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">تجمع تايلور, إيف, جونثان و أنا فى غرفة المعيشة فى بيتى, جنبا إلى جنب مع رسائل قبول الكليات, و كل منا معه ملخص القبول لكليته. و قد قررنا فى وقت سابق اننا سنذهب لنفس الجامعة معا و أننا بحاجة إلى العثور على أنسب واحدة فيهم التى قبلنا فيها جميعا. </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">قال إيف "حسنا قبل أن نبداء -- أسمحوا لى بتوضيح شىء واحد أولا: أنا ارفض الدراسة تماما فى الساحل الشرقى" </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">سالتها "و لم؟" </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">"حسنا, أنتقل والدى هناك مرة واحدة عندما كنت فى الصف الخامس. إلى بوسطون. لقد كرهت البرد, المطر, الثلج, البلل. أعتقد إنى فتاة كاليفورنيا." </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">قال تايلور "جيد جدا. لذلك سنختار نحن سنختار الكلية فى كاليفورنيا. الكل للواحد و الواحد للجميع." </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">و أضافت قائلة "و بالإضافة إلى -- لم أحصل على أم.أى.تى و أعتقد ان لا أحد هنا حصل عليها ايضا." </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">قلت "إحم" </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">قالت و هى تتطلع فى وجهى "نعم, جن؟" </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">"حصلت على أم أى تى..." </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">"حسنا, أعتقد ان محاورى ذهل من لون شعرى الأرجوانى وقتها, حسنا كليات ولاية كاليفورنيا. حصلت على بيركلى!, هل الجميع أيضا؟" </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">قلت لها "إحم, كنت قد رفضت من يو سى بيركلى." </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">قالت إيف "كنت؟, الله يعمل بطرق غامضة." </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">تنهد تايلور و قال "أخمن اننا لن نذهب جميعا لبيركلى. الكل لواحد و الواحد للكل. ماذا عن يو سى ال ايه؟" </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">راجعت ملاحظاتى "حصلت على ستانفورد ايضا, هذا أمر عظيم -- نحن جميعا سنذهب إلى ستانفورد." </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">قالت إيف "الكل من أجل الواحد و الواحد من أجل الكل لجامعة ستانفورد." ثم أضافت قائلة "حسنا, نحن جميعا تخصصنا الرئيس هندسة الحاسب الألى, و لكن عندنا تخصصات فرعية مختلفة, تخصصى الفرعى هو اللغات. حيث أنى اعرف الأنجليزية, العبرية, الأسبانية و ربما أتعلم لغات أخرى." </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">قال تايلور :سأذهب لدراسة التاريخ القديم و لغات الشرق الأدنى." </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">قال جونثان "أعتقد أنى سأذهب للفلسفة, أعتقد انى فيلسوف بطبعى. على الأقل ليس فى الأوقات التى أكون فيها كهربائى للنخاع." </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">قلت "حسنا بالنسبة لى, سأذهب للفنون الجميلة, ربما لدى موهبة خفية فى الرسم أو ما شابه, و إذ لم يكن, على الاقل ساعرف ذلك." </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">قال تايلور "جيد جدا, لذلك علينا جميعا إرسال خطابات قبولنا لستانفورد, مع إختيار التخصص الفرعى, حسنا الأن أعتذر, أعتقد انه مازال لدينا بعض الواجبات المنزلية للقيام بها....خاصة بالثانوية."</text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P18"/>
+      <text:p text:style-name="P7">
+        <text:bookmark-start text:name="أستطيع أن اكتب بديلى الخاص ل البحث عن الزمن المفقود"/>
+        <text:span text:style-name="T1">أستطيع أن اكتب بديلى الخاص ل "البحث عن الزمن المفقود"</text:span>
+        <text:bookmark-end text:name="أستطيع أن اكتب بديلى الخاص ل البحث عن الزمن المفقود"/>
+      </text:p>
+      <text:p text:style-name="P10">
+        <text:soft-page-break/>
+      </text:p>
+      <text:p text:style-name="P10">بعد ان عطلة الصيف وصلت كان لدينا بعض الوقت قبل السنة الثانية فى الجامعة, قالت إيف انها تفضل عدم العمل هذة السنة و بدلا من ذلك ستمضى الوقت مع اصدقائها. قررنا أن نحصر أنفسنا فى كاليفورنيا و المناطق المجاورة فى جولاتنا. </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">ذهبنا بسيارتنا فى كل مكان. ذهبنا إلى كل مكان يمكننا أن نفكر به, تسلقنا مرتفعات يوسمايت, ذهبنا لديزنى لاند, حديقة سان دياجو. ذهبنا إلى الكثير من مؤتمرات لينوكس فى الصيف. التقينا بعدد كبير من الزملاء المتحمسين. قررت إيف ان تأخذ جولة فى جامعة بيركلى و بعد الجولة ذهبت لرؤية الغرف حيث تم تطوير (=نسخة مبكرة و رائدة من يونيكس) بى أس دى و حيث تم تطوير جيمب (برنامج معالجة الصور). أعتقد أنها كانت فكرة من السماء.</text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P18"><text:bookmark-start text:name="لا يمكن لمعظم خريجين هندستنا الكهربائية"/>لا يمكن لمعظم خريجين هندستنا الكهربائية....<text:bookmark-end text:name="لا يمكن لمعظم خريجين هندستنا الكهربائية"/> </text:p>
+      <text:p text:style-name="P18">
+        <text:soft-page-break/>
+      </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">قالت أيف "هذا مثير للغاية" بينما كان اربعتنا يدخلون القاعة حيث كان حفل بداية العام الدراسة الجديد لستانفورد لعلوم الحاسب. </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">أكملت قائلة "أعنى, هذة ستانفورد. طن من الأسماء الكبيرة و العديد من الأقسام, العديد من الفصول المثيرة للإهتمام حيث يمكننا ان نأخذ العديد من الأنشطة الإضافية." </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">"نحن فى وسط وادى السليكون -- يمكننا حضور المؤتمرات من جميع هذة الشركات, كبيرها و صغيرها, يمكن أن نزور شركة أى بى أم أو جوجل..." </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">أضافت قائلة "أننا ندرس الشركات, فى يوم ما سنكون أكثر من مجرد مبدعين, و لكن اشخاص يمكنهم توصيل الترانزستورات و اشياء من هذا القبيل." </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">"بالطبع, عندما نبدء فى أخذ الواجبات المنزلية و سيكون عندنا معلمون سيئين, سنقوم بلعن هذا المكان حتى الموت و سنستمر بالتذمر منه, لكن فى الوقت الحالى --- أنا متحمسة جدا" </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">قال رجل فى الخمسينيات من عمره أو الستينات و هو يقترب منى و جونثان "لم استطع مقاومة عدم سماع ما كنتم تقولون, لمعلوماتك الخاصة, معظم خريجى الهندسة الكهربائية عندنا لا يستطيعوا إبدال مصباح حتى." </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">قال جونثان "ممم, منطقى" </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">"نعم, هم متخصصون فى الرياضيات" </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">"لحظة...لم نعرفك بأنفسنا! انا جينيفر رايموند و هذا جونثان ماركو." </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">"سعيد لمقابلتك, أنا استاذ متفرغ, دون كانوث." </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">قالت إيف "كانوث, ماذا عن كانوث؟" </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">قال البروفيسور "سعيد لمقابلتك يا أنسة, انا دون كانوث." </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">تحمست إيف جدا و قالت "يا إلهى, دون كانوث, رجل تيكس." </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">هز كانوث رأسه و قال "نعم, تيكس." </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">اكملت إيف قائلة "أنا!....أنا من أشد معجب.....إيييه..." و أغمى عليها. </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P18"><text:bookmark-start text:name="الدولار العشرى"/>الدولار العشرى<text:bookmark-end text:name="الدولار العشرى"/></text:p>
+      <text:p text:style-name="P18">
+        <text:soft-page-break/>
+      </text:p>
+      <text:p text:style-name="P18"/>
+      <text:p text:style-name="P10">كنا فى غرفة جانبية هادئة نسبيا. كان البروفسور كانوث هناك و أربعتنا, (إيف ما تزال فاقدة الوعى) و طبيب, أستيقظت إيف فى نهاية الأمر. </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">قالت و هى تطلع حولها "يا إلهى, تايلور جينيفر, جونثان...." </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">بروفيسور كانوث! أوه أنا اسفة حقا." </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">قال "لا عليك, هذا حسن" </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">"اه, حسنا. لكن ليكن فى علمك ان مقابلتك هى نوع من مقابلة إله" </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">قال "أنا لست إله, اللعنة; أخر مرة حاولت استغرق منى بناء الإمبراطورية الرومانية يومين." بعض الناس ضحك و تابع قائلا "لقد صنعت شيئا لك." و أعطاها شيكا. </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">تفحصت الشيك "2.56 دولار, لمعجبتى العظيمة" و قالت "واو! واحد دولار كانوثيان من أجلى أنا." </text:p>
+      <text:p text:style-name="P10">
+        <text:s/>
+      </text:p>
+      <text:p text:style-name="P10">سأل جونثان مستغربا "هل ستصرفيه؟." </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">"هل تمزح؟ هذة الأشياء تباع على ebay بما لا يقل عن مائة دولار" </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">أنفجرت ضاحكة </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">قالت إيف "انا امزح فقط, انا ساعتز به." </text:p>
+      <text:p text:style-name="P10"/>
+      <text:p text:style-name="P10">أعترف بأننى لم أفهم تماما كل ما حدث على الفور. لكن عندما عدت لغرفتى فى السكن, قضيت بعض الوقت ابحث عن إجابات. مازال امامى الكثير لأتعلمه. أظن انى مجرد مهووسة تحاول جعل العالم مكانا أفضل.</text:p>
+    </office:text>
+  </office:body>
+</office:document-content>
