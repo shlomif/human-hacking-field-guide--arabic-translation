@@ -2,10 +2,10 @@
 <office:document-meta xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:grddl="http://www.w3.org/2003/g/data-view#" office:version="1.2" grddl:transformation="http://docs.oasis-open.org/office/1.2/xslt/odf2rdf.xsl">
   <office:meta>
     <meta:creation-date>2011-03-28T00:43:28</meta:creation-date>
-    <dc:date>2011-06-03T09:06:12</dc:date>
-    <meta:editing-duration>P1DT19H25M2S</meta:editing-duration>
-    <meta:editing-cycles>291</meta:editing-cycles>
+    <dc:date>2011-06-20T23:21:57</dc:date>
+    <meta:editing-duration>P1DT20H29M9S</meta:editing-duration>
+    <meta:editing-cycles>376</meta:editing-cycles>
     <meta:generator>LibreOffice/3.3$Linux LibreOffice_project/330m19$Build-202</meta:generator>
-    <meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="37" meta:paragraph-count="669" meta:word-count="13556" meta:character-count="61202"/>
+    <meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="37" meta:paragraph-count="669" meta:word-count="13662" meta:character-count="61653"/>
   </office:meta>
 </office:document-meta>
